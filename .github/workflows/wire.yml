@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Also fetch older headlines back to 1 October (run once)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -21,16 +26,18 @@ jobs:
         with:
           python-version: "3.12"
       - name: Fetch headlines
-        run: python3 scripts/fetch_wire.py
+        run: python3 scripts/fetch_wire.py ${{ inputs.backfill && '--backfill' || '' }}
       - name: Commit if changed
         run: |
           git config user.name "dira-signal-wire"
           git config user.email "actions@users.noreply.github.com"
           cp wire.json "$RUNNER_TEMP/wire.json"
+          cp -r archive "$RUNNER_TEMP/archive"
           git fetch origin "${GITHUB_REF_NAME}"
           git reset --hard "origin/${GITHUB_REF_NAME}"
           cp "$RUNNER_TEMP/wire.json" wire.json
-          git add wire.json
+          rm -rf archive && cp -r "$RUNNER_TEMP/archive" archive
+          git add wire.json archive
           if git diff --cached --quiet; then echo "No change"; exit 0; fi
           git commit -m "Live wire update"
           git push origin "HEAD:${GITHUB_REF_NAME}"
