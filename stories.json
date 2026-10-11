@@ -1,0 +1,77 @@
+{
+  "stories": [
+    {
+      "id": "welcome",
+      "status": "verified",
+      "section": "about",
+      "format": "news",
+      "title": "Dira Signal is live: what matters, verified",
+      "summary": "We may not always be first. We aim to be the place you check to know whether something is true and what it means.",
+      "brief": {
+        "what_happened": "Dira Signal, an independent news and information platform focused on Kenya and Africa, has launched.",
+        "verified": [
+          "Every story is published only after its core facts are confirmed.",
+          "Each story lists the sources it rests on."
+        ],
+        "unconfirmed": [],
+        "who": ["The Dira Signal editorial team"],
+        "why_it_matters": "Kenyans are flooded with viral claims. We separate what is confirmed from what is not.",
+        "whats_next": "Verified reporting across Kenya, Business, Society, Technology, Infrastructure, Lifestyle, Sports and World, plus Fact Checks and Explainers."
+      },
+      "body": [
+        "Every Dira Signal story answers the same questions: what actually happened, what has been verified, who is involved, why it matters and what happens next.",
+        "A story goes up only when two independent sources confirm it, an official source is on the record, or we reported it first-hand.",
+        "When we get something wrong, we fix it openly and log it on our Corrections page. Have a tip? Send it to us and we'll check it before we report it."
+      ],
+      "sources": [{ "name": "Dira Signal editorial team", "type": "First-hand" }],
+      "reporter": "Dira Signal",
+      "location": "Nairobi",
+      "published": "2026-10-08T20:00:00+03:00",
+      "corrections": []
+    },
+    {
+      "id": "template-news",
+      "status": "draft",
+      "section": "business",
+      "subsection": "Energy",
+      "format": "news",
+      "breaking": false,
+      "title": "TEMPLATE (news): copy this block for a new story. Drafts never appear on the site.",
+      "summary": "One or two sentences saying what happened.",
+      "brief": {
+        "what_happened": "One sentence.",
+        "verified": ["Confirmed fact 1", "Confirmed fact 2"],
+        "unconfirmed": ["Anything still unconfirmed, or leave the list empty"],
+        "who": ["Person or institution and their role"],
+        "why_it_matters": "One or two sentences.",
+        "whats_next": "The next date, decision or step to watch."
+      },
+      "body": ["Paragraph one.", "Paragraph two."],
+      "sources": [
+        { "name": "Name of official, document or outlet", "type": "Official statement" },
+        { "name": "Second independent source", "type": "Document" }
+      ],
+      "reporter": "Your name",
+      "location": "Nairobi",
+      "published": "2026-10-08T20:00:00+03:00",
+      "corrections": []
+    },
+    {
+      "id": "template-fact-check",
+      "status": "draft",
+      "section": "kenya",
+      "subsection": "Politics",
+      "format": "fact-check",
+      "claim": "The exact claim being shared, in quotes",
+      "verdict": "False",
+      "title": "TEMPLATE (fact check): Fact check: headline saying what the evidence shows",
+      "summary": "Where the claim spread and what we found.",
+      "body": ["Where the claim came from.", "What the evidence shows.", "Our verdict and why."],
+      "sources": [{ "name": "Official data or document", "type": "Document" }],
+      "reporter": "Your name",
+      "location": "Nairobi",
+      "published": "2026-10-08T20:00:00+03:00",
+      "corrections": []
+    }
+  ]
+}
