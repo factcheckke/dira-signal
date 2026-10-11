@@ -1,0 +1,13 @@
+[
+  {"name":"Capital FM","tier":2,"geo":"kenya","url":"https://www.capitalfm.africa/news/feed/"},
+  {"name":"The Standard","tier":2,"geo":"kenya","url":"https://www.standardmedia.co.ke/rss/headlines.php"},
+  {"name":"KBC","tier":2,"geo":"kenya","url":"https://www.kbc.co.ke/feed/"},
+  {"name":"Citizen Digital","tier":2,"geo":"kenya","url":"https://www.citizen.digital/rss"},
+  {"name":"The Star","tier":2,"geo":"kenya","url":"https://www.the-star.co.ke/rss"},
+  {"name":"Kenya News Agency","tier":1,"geo":"kenya","url":"https://www.kenyanews.go.ke/feed/"},
+  {"name":"The EastAfrican","tier":2,"geo":"africa","url":"https://www.theeastafrican.co.ke/rss"},
+  {"name":"Africa Check","tier":3,"geo":"africa","url":"https://africacheck.org/rss.xml"},
+  {"name":"BBC Africa","tier":2,"geo":"africa","url":"https://feeds.bbci.co.uk/news/world/africa/rss.xml"},
+  {"name":"Al Jazeera","tier":2,"geo":"world","url":"https://www.aljazeera.com/xml/rss/all.xml"},
+  {"name":"US Federal Reserve","tier":1,"geo":"world","url":"https://www.federalreserve.gov/feeds/press_all.xml"}
+]
