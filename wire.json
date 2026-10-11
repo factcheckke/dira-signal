@@ -1,43 +1,725 @@
-name: Live wire (every 10 minutes)
-
-on:
-  schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:
-    inputs:
-      backfill:
-        description: "Also fetch older headlines back to 1 October (run once)"
-        type: boolean
-        default: false
-
-permissions:
-  contents: write
-
-concurrency:
-  group: wire
-  cancel-in-progress: false
-
-jobs:
-  wire:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Fetch headlines
-        run: python3 scripts/fetch_wire.py ${{ inputs.backfill && '--backfill' || '' }}
-      - name: Commit if changed
-        run: |
-          git config user.name "dira-signal-wire"
-          git config user.email "actions@users.noreply.github.com"
-          cp wire.json "$RUNNER_TEMP/wire.json"
-          cp -r archive "$RUNNER_TEMP/archive"
-          git fetch origin "${GITHUB_REF_NAME}"
-          git reset --hard "origin/${GITHUB_REF_NAME}"
-          cp "$RUNNER_TEMP/wire.json" wire.json
-          rm -rf archive && cp -r "$RUNNER_TEMP/archive" archive
-          git add wire.json archive
-          if git diff --cached --quiet; then echo "No change"; exit 0; fi
-          git commit -m "Live wire update"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+{
+ "updated": "2026-10-11T15:57:28+00:00",
+ "items": [
+  {
+   "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-11T15:32:23+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Power bank fire forces plane to emergency land in India",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+   "at": "2026-10-11T15:26:29+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+   "at": "2026-10-11T15:24:50+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "US justice department investigates TV networks over Trump pool coverage",
+   "url": "https://capitalfm.africa/us-justice-department-investigates-tv-networks-over-trump-pool-coverage/",
+   "at": "2026-10-11T15:21:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "How the ICC can be saved",
+   "url": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+   "at": "2026-10-11T15:15:35+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+   "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+   "at": "2026-10-11T15:10:27+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Pope Leo to undergo surgery to remove lung nodule",
+   "url": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+   "at": "2026-10-11T14:59:38+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+   "url": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+   "at": "2026-10-11T14:34:15+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto Sets April 2027 Deadline for Rironi-Mau Summit Highway",
+   "url": "https://capitalfm.africa/ruto-sets-april-2027-deadline-for-rironi-mau-summit-highway/",
+   "at": "2026-10-11T14:30:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+   "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+   "at": "2026-10-11T14:25:03+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+   "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+   "at": "2026-10-11T14:09:12+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "The Mafia Football Murders | True Crime Reports",
+   "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+   "at": "2026-10-11T14:05:14+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+   "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+   "at": "2026-10-11T14:04:32+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+   "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+   "at": "2026-10-11T13:41:57+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+   "at": "2026-10-11T13:34:07+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Oluga Challenges JOOTRH Staff to Improve Patient Care Amid Public Complaints",
+   "url": "https://capitalfm.africa/oluga-challenges-jootrh-staff-to-improve-patient-care-amid-public-complaints/",
+   "at": "2026-10-11T13:30:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "India’s crackdown on youth protesters: What next?",
+   "url": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
+   "at": "2026-10-11T13:06:00+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
+   "at": "2026-10-11T12:40:35+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Meet the man helping India’s detained protesters get home",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+   "at": "2026-10-11T12:36:35+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto to Opposition: ‘I Will Deal With You’",
+   "url": "https://capitalfm.africa/ruto-to-opposition-i-will-deal-with-you/",
+   "at": "2026-10-11T11:30:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Optics tell it all: Why William Ruto looks tell of a desperate politician",
+   "url": "https://www.standardmedia.co.ke/article/2001559847/optics-tell-it-all-why-william-ruto-looks-tell-of-a-desperate-politician",
+   "at": "2026-10-11T09:30:00+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+   "url": "https://capitalfm.africa/twelve-killed-and-300-injured-in-attack-on-airport-in-saudi-capital-riyadh/",
+   "at": "2026-10-11T09:05:53+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Gachagua Mocks Ruto’s Proposal to Import Buffaloes for Milk",
+   "url": "https://capitalfm.africa/gachagua-mocks-rutos-proposal-to-import-buffaloes-for-milk/",
+   "at": "2026-10-11T08:20:56+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+   "url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-11T08:19:52+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Bett and Chepkurui win Betika Cross country in Kericho",
+   "url": "https://www.kbc.co.ke/bett-and-chepkurui-win-betika-cross-country-in-kericho/",
+   "at": "2026-10-11T08:16:09+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto Announces Plan to Cut Cocoa Seedling Prices as Kenya Launches Cocoa Farming",
+   "url": "https://capitalfm.africa/ruto-announces-plan-to-cut-cocoa-seedling-prices-as-kenya-launches-cocoa-farming/",
+   "at": "2026-10-11T08:13:16+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "MoH Urges Kenyans to Use Protective Gear When Handling Suspected Ebola Cases",
+   "url": "https://capitalfm.africa/moh-urges-kenyans-to-use-protective-gear-when-handling-suspected-ebola-cases/",
+   "at": "2026-10-11T08:00:30+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Natembeya has blocked development in Trans Nzoia, Murkomen says",
+   "url": "https://www.kbc.co.ke/natembeya-has-blocked-development-in-trans-nzoia-murkomen-says/",
+   "at": "2026-10-11T07:56:32+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto hails Kipchoge after stunning Melbourne marathon comeback",
+   "url": "https://capitalfm.africa/ruto-hails-kipchoge-after-stunning-melbourne-marathon-comeback/",
+   "at": "2026-10-11T07:50:59+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+   "url": "https://capitalfm.africa/drone-strike-by-sudan-paramilitary-kills-41-near-ethiopian-border-rights-group-says/",
+   "at": "2026-10-11T07:50:01+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+   "url": "https://www.kbc.co.ke/afrobeats-singer-ayra-starr-on-making-history-at-her-nfl-half-time-show/",
+   "at": "2026-10-11T07:00:44+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto wades into growing ODM-UDA conflict",
+   "url": "https://www.standardmedia.co.ke/article/2001559858/ruto-wades-into-growing-odm-uda-conflict",
+   "at": "2026-10-10T15:18:00+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-10T14:49:32+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Nairobi paints three zebra crossings pink in Breast Cancer awareness drive",
+   "url": "https://www.kbc.co.ke/nairobi-paints-three-zebra-crossings-pink-in-breast-cancer-awareness-drive/",
+   "at": "2026-10-10T09:16:10+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Kindiki: Govt releases Ksh177B to complete stalled projects",
+   "url": "https://www.kbc.co.ke/kindiki-govt-releases-ksh177b-to-complete-stalled-projects/",
+   "at": "2026-10-10T09:00:56+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "National Criminal Investigations Academy admitted into Interpol Global Academy Network",
+   "url": "https://www.kbc.co.ke/national-criminal-investigations-academy-admitted-into-interpol-global-academy-network/",
+   "at": "2026-10-10T08:49:05+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "The long-awaited 2026/2027 Sportpesa League starts today",
+   "url": "https://www.kbc.co.ke/the-long-awaited-2026-2027-sportpesa-league-starts-today/",
+   "at": "2026-10-10T07:49:48+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Waiguru pledges to rehabilitate Mwea rice farm roads",
+   "url": "https://www.kbc.co.ke/waiguru-pledges-to-rehabilitate-mwea-rice-farm-roads/",
+   "at": "2026-10-10T07:48:42+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Crazy Rich Asians to return as TV show with original film’s stars",
+   "url": "https://www.kbc.co.ke/crazy-rich-asians-to-return-as-tv-show-with-original-films-stars/",
+   "at": "2026-10-10T05:05:59+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "‘Call Me Queen’ to premiere at NBO Film Festival in October",
+   "url": "https://www.kbc.co.ke/call-me-queen-to-premiere-at-nbo-film-festival-in-october/",
+   "at": "2026-10-10T05:00:22+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-10T00:00:08+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
+   "url": "https://www.bbc.co.uk/news/articles/crvg9pl3zd5zo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-09T23:01:04+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
+   "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-09T17:37:10+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Kalonzo to Ruto: You have no numbers",
+   "url": "https://www.standardmedia.co.ke/article/2001559819/kalonzo-to-ruto-you-have-no-numbers",
+   "at": "2026-10-09T17:04:21+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+   "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-09T15:24:43+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "at": "2026-10-09T14:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "at": "2026-10-08T20:30:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Revealed: 84 Kenyans killed, 52 missing in Russia-Ukraine war",
+   "url": "https://www.standardmedia.co.ke/article/2001559706/revealed-84-kenyans-killed-52-missing-in-russia-ukraine-war",
+   "at": "2026-10-08T13:55:00+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+   "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-07T23:29:15+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "at": "2026-10-07T18:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Wajir patient isolated over suspected viral haemorrhagic fever",
+   "url": "https://www.standardmedia.co.ke/article/2001559651/wajir-patient-isolated-over-suspected-viral-haemorrhagic-fever",
+   "at": "2026-10-07T17:45:56+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Complainant letters cannot be used to initiate judge's removal, court rules",
+   "url": "https://www.standardmedia.co.ke/article/2001559620/complainant-letters-cannot-be-used-to-initiate-judge-s-removal-court-rules",
+   "at": "2026-10-07T11:39:09+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "at": "2026-10-05T20:30:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "How KNEC plans to stop cheating in 2026 exams",
+   "url": "https://www.standardmedia.co.ke/article/2001559464/how-knec-plans-to-stop-cheating-in-2026-exams",
+   "at": "2026-10-05T16:01:26+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Mbadi hits out at Sifuna, says opposition lacks economic agenda",
+   "url": "https://www.standardmedia.co.ke/article/2001559402/mbadi-hits-out-at-sifuna-says-opposition-lacks-economic-agenda",
+   "at": "2026-10-04T15:04:09+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+   "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-03T23:37:46+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Kericho Annex Prison under scrutiny over death of remand prisoner",
+   "url": "https://www.standardmedia.co.ke/article/2001559330/kericho-annex-prison-under-scrutiny-over-death-of-remand-prisoner",
+   "at": "2026-10-03T17:00:00+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+   "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-02T23:56:21+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "at": "2026-10-02T20:45:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "at": "2026-10-02T20:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Pregnant woman found dead by roadside in Kirinyaga with head, hip injuries",
+   "url": "https://www.standardmedia.co.ke/article/2001559276/pregnant-woman-found-dead-by-roadside-in-kirinyaga-with-head-hip-injuries",
+   "at": "2026-10-02T17:12:07+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+   "at": "2026-10-02T15:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+   "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-02T11:24:13+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+   "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-01T23:46:12+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Ruto downplays rivalry over oil refinery in East Africa",
+   "url": "https://www.standardmedia.co.ke/article/2001559194/ruto-downplays-rivalry-over-oil-refinery-in-east-africa",
+   "at": "2026-10-01T17:52:24+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "at": "2026-09-30T13:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "The journalist crowned king in Uganda after bitter succession dispute",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-09-29T20:09:27+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+   "at": "2026-09-29T20:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Outrage as KDF officers detain human rights team along Malindi-Lamu highway",
+   "url": "https://www.standardmedia.co.ke/article/2001558984/outrage-as-kdf-officers-detain-human-rights-team-along-malindi-lamu-highway",
+   "at": "2026-09-29T15:46:41+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+   "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-09-28T17:26:21+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Why are Ethiopia's rebels joining forces?",
+   "url": "https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-09-28T13:21:11+00:00",
+   "source": "BBC Africa",
+   "tier": 2,
+   "geo": "africa",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Kalonzo signals at working with Ruto if 2027 poll is free and fair",
+   "url": "https://www.standardmedia.co.ke/article/2001558815/kalonzo-signals-at-working-with-ruto-if-2027-poll-is-free-and-fair",
+   "at": "2026-09-27T13:15:49+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "ODM delegates reject Sakaja using the party for gubernatorial bid",
+   "url": "https://www.standardmedia.co.ke/article/2001558772/odm-delegates-reject-sakaja-using-the-party-for-gubernatorial-bid",
+   "at": "2026-09-26T15:00:03+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+   "at": "2026-09-25T20:30:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Oil rig arrives in Mombasa ahead of Kenya's first commercial drilling",
+   "url": "https://www.standardmedia.co.ke/article/2001558703/oil-rig-arrives-in-mombasa-ahead-of-kenya-s-first-commercial-drilling",
+   "at": "2026-09-25T16:49:31+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+   "at": "2026-09-24T18:30:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+   "at": "2026-09-24T15:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "at": "2026-09-22T20:30:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+   "at": "2026-09-18T15:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+   "at": "2026-09-18T15:00:00+00:00",
+   "source": "US Federal Reserve",
+   "tier": 1,
+   "geo": "world",
+   "seen": "2026-10-11T15:57:28+00:00"
+  }
+ ]
+}
