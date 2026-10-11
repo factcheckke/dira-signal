@@ -1,0 +1,33 @@
+name: Live wire (every 10 minutes)
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wire
+  cancel-in-progress: false
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch headlines
+        run: python3 scripts/fetch_wire.py
+      - name: Commit if changed
+        run: |
+          git config user.name "dira-signal-wire"
+          git config user.email "actions@users.noreply.github.com"
+          git add wire.json
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git commit -m "Live wire update"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push
