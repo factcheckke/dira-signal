@@ -2,6 +2,141 @@
 "month": "2026-10",
 "items": [
 {
+"title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+"at": "2026-10-11T22:24:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+"url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-11T21:12:44+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Waves crash into homes as excavators try to protect California properties",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+"at": "2026-10-11T21:03:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "US report flags Kenyan officials over Russia military recruitment",
+"url": "https://www.standardmedia.co.ke/article/2001559926/us-report-flags-kenyan-officials-over-russia-military-recruitment",
+"at": "2026-10-11T21:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+"url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+"at": "2026-10-11T20:57:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Two killed near Israeli-occupied area in south Lebanon",
+"url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+"at": "2026-10-11T20:46:45+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+"at": "2026-10-11T20:44:17+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "How Man City beat Liverpool after guilty verdict",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
+"at": "2026-10-11T20:41:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Zelenskyy welcomes US-announced energy ceasefire",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+"at": "2026-10-11T20:28:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Syrian families demand release of detainees held by Israel",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+"at": "2026-10-11T20:24:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Pakistan suspends Imran Khan’s party-led provincial government",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+"at": "2026-10-11T20:21:13+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+"at": "2026-10-11T19:59:15+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+"url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+"at": "2026-10-11T19:31:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Man dies after tiger attack at wildlife park",
+"url": "https://capitalfm.africa/man-dies-after-tiger-attack-at-wildlife-park/",
+"at": "2026-10-11T19:30:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
+"title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+"url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+"at": "2026-10-11T19:19:50+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-11T22:50:31+00:00"
+},
+{
 "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
 "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
 "at": "2026-10-11T18:47:57+00:00",
