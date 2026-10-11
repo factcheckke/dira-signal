@@ -26,8 +26,11 @@ jobs:
         run: |
           git config user.name "dira-signal-wire"
           git config user.email "actions@users.noreply.github.com"
+          cp wire.json "$RUNNER_TEMP/wire.json"
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+          cp "$RUNNER_TEMP/wire.json" wire.json
           git add wire.json
           if git diff --cached --quiet; then echo "No change"; exit 0; fi
           git commit -m "Live wire update"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push
+          git push origin "HEAD:${GITHUB_REF_NAME}"
