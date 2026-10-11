@@ -102,7 +102,10 @@ def update_archive(items, now):
     added = 0
     for month, new in months.items():
         path = ARCHIVE / f"{month}.json"
-        have = json.loads(path.read_text()).get("items", []) if path.exists() else []
+        try:
+            have = json.loads(path.read_text()).get("items", [])
+        except (OSError, ValueError, AttributeError):
+            have = []
         urls = {it["url"] for it in have}
         for it in new:
             if it["url"] not in urls:
@@ -113,7 +116,11 @@ def update_archive(items, now):
         path.write_text(json.dumps({"month": month, "items": have}, indent=0, ensure_ascii=False))
     index = []
     for path in sorted(ARCHIVE.glob("????-??.json"), reverse=True):
-        index.append({"month": path.stem, "count": len(json.loads(path.read_text()).get("items", []))})
+        try:
+            count = len(json.loads(path.read_text()).get("items", []))
+        except (OSError, ValueError, AttributeError):
+            count = 0
+        index.append({"month": path.stem, "count": count})
     (ARCHIVE / "index.json").write_text(json.dumps({"updated": now, "from": ARCHIVE_FROM, "months": index}, indent=1))
     return added
 
@@ -121,9 +128,11 @@ def main():
     do_backfill = "--backfill" in sys.argv
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     old = {}
-    if OUT.exists():
+    try:
         for it in json.loads(OUT.read_text()).get("items", []):
             old.setdefault(it["source"], []).append(it)
+    except (OSError, ValueError, AttributeError, KeyError):
+        pass  # missing, empty or hand-edited wire.json: start fresh
     items, archive_items, report = [], [], []
     for feed in FEEDS:
         try:
