@@ -3,8 +3,12 @@
 Headlines only. We never copy or rewrite another outlet's story; every item is
 labelled "Reported by <source>" and links out. A feed that fails is skipped and
 the previous items for it are kept, so one broken source never empties the wire.
+
+Every headline is also kept for good in archive/YYYY-MM.json (from ARCHIVE_FROM
+onwards), so readers can search past news. Run with --backfill once to page back
+through each feed's history (WordPress-style ?paged=N) to fill in older items.
 """
-import json, sys, urllib.request, xml.etree.ElementTree as ET
+import json, sys, urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -12,7 +16,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS = json.loads((ROOT / "scripts" / "feeds.json").read_text())
 OUT = ROOT / "wire.json"
-PER_FEED, MAX_ITEMS = 8, 60
+PER_FEED, MAX_ITEMS = 15, 150
+ARCHIVE = ROOT / "archive"
+ARCHIVE_FROM = "2026-10-01"
+BACKFILL_PAGES = 40
 UA = "Mozilla/5.0 (compatible; DiraSignalWire/1.0)"
 
 def when(text):
@@ -52,22 +59,81 @@ def parse(xml):
                     break
         if title and link.startswith("http"):
             items.append({"title": " ".join(title.split()), "url": link, "at": date})
-    return items[:PER_FEED]
+    return items
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return parse(r.read())
+
+def page_url(url, n):
+    parts = urllib.parse.urlsplit(url)
+    q = urllib.parse.parse_qsl(parts.query) + [("paged", str(n))]
+    return urllib.parse.urlunsplit(parts._replace(query=urllib.parse.urlencode(q)))
+
+def backfill(feed, first):
+    """Pages back through a feed until items are older than ARCHIVE_FROM.
+    Feeds that ignore ?paged= return the same page again, which stops the loop."""
+    out, seen = [], {it["url"] for it in first}
+    for n in range(2, BACKFILL_PAGES + 1):
+        try:
+            got = fetch(page_url(feed["url"], n))
+        except Exception:
+            break
+        fresh = [it for it in got if it["url"] not in seen]
+        if not fresh:
+            break
+        for it in fresh:
+            seen.add(it["url"])
+        out += fresh
+        dated = [it["at"] for it in fresh if it["at"]]
+        if dated and min(dated) < ARCHIVE_FROM:
+            break
+    return out
+
+def update_archive(items, now):
+    ARCHIVE.mkdir(exist_ok=True)
+    months = {}
+    for it in items:
+        day = (it.get("at") or it.get("seen") or now)[:10]
+        if day < ARCHIVE_FROM:
+            continue
+        months.setdefault(day[:7], []).append(it)
+    added = 0
+    for month, new in months.items():
+        path = ARCHIVE / f"{month}.json"
+        have = json.loads(path.read_text()).get("items", []) if path.exists() else []
+        urls = {it["url"] for it in have}
+        for it in new:
+            if it["url"] not in urls:
+                urls.add(it["url"])
+                have.append(it)
+                added += 1
+        have.sort(key=lambda x: x.get("at") or x.get("seen") or "", reverse=True)
+        path.write_text(json.dumps({"month": month, "items": have}, indent=0, ensure_ascii=False))
+    index = []
+    for path in sorted(ARCHIVE.glob("????-??.json"), reverse=True):
+        index.append({"month": path.stem, "count": len(json.loads(path.read_text()).get("items", []))})
+    (ARCHIVE / "index.json").write_text(json.dumps({"updated": now, "from": ARCHIVE_FROM, "months": index}, indent=1))
+    return added
 
 def main():
+    do_backfill = "--backfill" in sys.argv
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     old = {}
     if OUT.exists():
         for it in json.loads(OUT.read_text()).get("items", []):
             old.setdefault(it["source"], []).append(it)
-    items, report = [], []
+    items, archive_items, report = [], [], []
     for feed in FEEDS:
         try:
-            req = urllib.request.Request(feed["url"], headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=20) as r:
-                got = parse(r.read())
+            got = fetch(feed["url"])
+            if do_backfill:
+                got += backfill(feed, got)
             for it in got:
-                it.update(source=feed["name"], tier=feed["tier"], geo=feed["geo"])
-            items += got
+                it.update(source=feed["name"], tier=feed["tier"], geo=feed["geo"], seen=now)
+            archive_items += got
+            items += got[:PER_FEED]
             report.append(f"ok   {feed['name']}: {len(got)}")
         except Exception as e:
             items += old.get(feed["name"], [])
@@ -77,10 +143,10 @@ def main():
         if it["url"] not in seen:
             seen.add(it["url"])
             unique.append(it)
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     OUT.write_text(json.dumps({"updated": now, "items": unique[:MAX_ITEMS]}, indent=1, ensure_ascii=False))
     print("\n".join(report))
     print(f"wire.json: {len(unique[:MAX_ITEMS])} items")
+    print(f"archive: {update_archive(archive_items, now)} new items")
 
 if __name__ == "__main__":
     sys.exit(main())
