@@ -60,6 +60,17 @@ main.wrap{padding-top:18px;padding-bottom:40px}
 .breaking .tm{font-size:11px;color:var(--text-3);white-space:nowrap}
 .card{display:block;text-decoration:none;border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:12px;background:var(--surface);transition:border-color .15s}
 .card:hover{border-color:var(--border-2)}
+.wcard{display:block;text-decoration:none;border:1px dashed var(--border-2);border-radius:12px;padding:12px 16px;margin-bottom:10px;background:var(--surface)}
+.wcard h3{font-family:var(--serif);font-size:16px;line-height:1.35;margin:4px 0 0;color:var(--text)}
+.wcard .wm{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:11.5px;color:var(--text-3)}
+.wcard .rep{font-size:10px;font-weight:700;letter-spacing:.06em;border:1px solid var(--border-2);border-radius:4px;padding:1px 5px;color:var(--text-2)}
+.arch-controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:8px;margin:14px 0 6px}
+.arch-controls input,.arch-controls select{font:inherit;font-size:14px;padding:9px 10px;border:1px solid var(--border-2);border-radius:8px;background:var(--surface);color:var(--text);min-width:0}
+.arch-count{font-size:13px;color:var(--text-3);margin:6px 0 12px}
+.arch-day{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-2);margin:18px 0 8px}
+.arch-more{font:inherit;font-size:14px;padding:9px 16px;border:1px solid var(--border-2);border-radius:8px;background:var(--surface);color:var(--text);cursor:pointer}
+@media (max-width:640px){.arch-controls{grid-template-columns:1fr 1fr}.arch-controls #aq{grid-column:1/-1}}
+.rephead{margin:22px 0 10px}.rephead h2{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-2)}.rephead p{font-size:13px;color:var(--text-3)}
 .meta{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:6px;font-size:11.5px;color:var(--text-3)}
 .cat{font-size:10.5px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--accent)}
 .card h2{font-family:var(--serif);font-size:19px;line-height:1.3;margin-bottom:6px}
@@ -142,7 +153,7 @@ footer a{color:var(--text-2)}
   <div class="wrap">
     <div class="top">
       <a class="logo" href="#/"><svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0f1a20"/><circle cx="30" cy="34" r="17" fill="none" stroke="#eaf0ef" stroke-width="3.5"/><path d="M30 34 L40 24" stroke="#f2542d" stroke-width="4.5" stroke-linecap="round"/><path d="M30 34 L23 41" stroke="#eaf0ef" stroke-width="4.5" stroke-linecap="round"/><path d="M45 13 a8 8 0 0 1 5 5" fill="none" stroke="#f2542d" stroke-width="3" stroke-linecap="round"/></svg><span><b class="word">dira <i>signal</i></b><small>WHAT MATTERS. VERIFIED.</small></span></a>
-      <nav><a href="#/format/fact-check">Fact Check</a><a href="#/format/explainer">Explainers</a><a href="#/how-we-verify">How we verify</a><a href="#/corrections">Corrections</a></nav>
+      <nav><a href="#/archive">Archive</a><a href="#/format/fact-check">Fact Check</a><a href="#/format/explainer">Explainers</a><a href="#/how-we-verify">How we verify</a><a href="#/corrections">Corrections</a></nav>
     </div>
     <div class="cats" id="cats"></div>
     <div class="subs" id="subs"></div>
@@ -154,7 +165,7 @@ footer a{color:var(--text-2)}
 <footer>
   <div class="wrap">
     © <span id="yr"></span> Dira Signal · What matters. Verified. ·
-    <a href="#/how-we-verify">How we verify</a> · <a href="#/corrections">Corrections</a>
+    <a href="#/archive">News archive</a> · <a href="#/how-we-verify">How we verify</a> · <a href="#/corrections">Corrections</a>
   </div>
 </footer>
 
@@ -207,6 +218,31 @@ function kicker(s){
 }
 
 let WIRE = {items:[]};
+// Sorts wire headlines into tabs. Kenya/World use the outlet's region; topics use keywords in the headline.
+const TOPIC_WORDS = {
+  business:/\b(shilling|economy|economic|business|bank|banks|banking|cbk|kra|tax|taxes|budget|market|markets|stock|nse|trade|investor|investment|firm|company|profit|revenue|inflation|loan|debt|fuel|prices?|epra|tea|coffee|sugar|farmers?|agricultur\w*|energy|power|kplc|safaricom|imf|world bank)\b/i,
+  society:/\b(health|hospital|doctors?|nurses?|patients?|disease|ebola|cholera|mpox|outbreak|vaccine|school|schools|students?|teachers?|education|university|exam|kcse|environment|climate|rains?|floods?|drought|weather|tree|trees|wildlife|church|women|children|youth)\b/i,
+  technology:/\b(tech|technology|digital|ai|artificial intelligence|internet|online|app|apps|cyber|data|mobile|m-pesa|mpesa|fintech|telecom\w*|startup|software|satellite)\b/i,
+  infrastructure:/\b(road|roads|highway|expressway|bridge|railway|sgr|airport|port|housing|houses|construction|dam|kenha|kura|transport|matatu|airstrip|project|projects)\b/i,
+  lifestyle:/\b(tourism|tourists?|travel|music|film|movie|festival|culture|food|fashion|artist|celebrity|entertainment|safari)\b/i,
+  sports:/\b(football|soccer|harambee|marathon|athletics|athletes?|kipchoge|rugby|cricket|olympic\w*|fifa|caf|afcon|league|cup|match|coach|goal|boxing|volleyball|basketball|golf|tennis|race|champion\w*)\b/i,
+};
+function wireFor(key){
+  const items = WIRE.items || [];
+  if (!key) return items;
+  if (key === 'kenya') return items.filter(it => it.geo === 'kenya');
+  if (key === 'world') return items.filter(it => it.geo === 'africa' || it.geo === 'world');
+  const re = TOPIC_WORDS[key];
+  return re ? items.filter(it => re.test(it.title || '')) : [];
+}
+function reportedList(key, max){
+  const items = wireFor(key).slice(0, max || 25);
+  if (!items.length) return '';
+  return `<div class="rephead"><h2>Reported elsewhere</h2><p>Latest headlines from named outlets, updated every 10 minutes. Dira Signal has not checked these yet. Each links to the original story.</p></div>` +
+    items.map(it => `<a class="wcard" href="${esc(it.url)}" target="_blank" rel="noopener">
+      <div class="wm"><span class="rep">REPORTED</span><span>by ${esc(it.source)}</span>${it.at?`<span>· ${ago(it.at)}</span>`:''}</div>
+      <h3>${esc(it.title)}</h3></a>`).join('');
+}
 async function loadWire(){
   try{
     const r = await fetch('wire.json?t=' + Date.now(), {cache:'no-store'});
@@ -232,7 +268,7 @@ async function load(refresh){
     STORIES = [];
     console.error('Could not load stories.json', e);
   }
-  if (refresh && parse().view === 'story') return;
+  if (refresh && (parse().view === 'story' || parse().view === 'archive')) return;
   route(!refresh);
 }
 
@@ -283,12 +319,13 @@ function sidebar(){
   </aside>`;
 }
 
-function listPage(list, heading, intro){
+function listPage(list, heading, intro, wireKey){
   const br = STORIES.find(isBreaking);
   return `<div class="grid"><div>
     ${br ? `<a class="breaking" href="${storyLink(br)}"><span class="tag">⚡ Breaking</span><span class="t">${esc(br.title)}</span><span class="tm">${ago(br.published)}</span></a>` : ''}
     ${heading ? `<div class="listhead"><h1>${esc(heading)}</h1>${intro?`<p>${esc(intro)}</p>`:''}</div>` : ''}
-    ${list.length ? list.map(card).join('') : `<div class="empty">No verified stories here yet. Check back soon.</div>`}
+    ${list.length ? list.map(card).join('') : (wireKey === null ? `<div class="empty">No verified stories here yet. Check back soon.</div>` : `<div class="empty">No verified stories in this section yet.</div>`)}
+    ${wireKey === null ? '' : reportedList(wireKey)}
   </div>${sidebar()}</div>`;
 }
 
@@ -346,6 +383,75 @@ function story(id){
   </article>${sidebar()}</div>`;
 }
 
+// ---- Archive: every headline since 1 October, searchable ----
+let ARCH = null, ARCH_SHOWN = 100;
+async function loadArchive(){
+  if (ARCH) return ARCH;
+  try{
+    const idx = await (await fetch('archive/index.json?t=' + Date.now(), {cache:'no-store'})).json();
+    const months = await Promise.all((idx.months || []).map(m =>
+      fetch(`archive/${m.month}.json?t=` + Date.now(), {cache:'no-store'}).then(r => r.json()).catch(() => ({items:[]}))));
+    const seen = new Set(), items = [];
+    for (const m of months) for (const it of (m.items || [])) if (!seen.has(it.url)) { seen.add(it.url); items.push(it); }
+    items.sort((a,b) => (b.at || b.seen || '').localeCompare(a.at || a.seen || ''));
+    ARCH = {items, from: idx.from, months: (idx.months || []).map(m => m.month)};
+  }catch(e){ ARCH = {items:[], months:[]}; }
+  return ARCH;
+}
+const monthName = m => new Date(m + '-01T12:00:00Z').toLocaleDateString('en-KE',{month:'long',year:'numeric'});
+const dayName = iso => new Date(iso).toLocaleDateString('en-KE',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Africa/Nairobi'});
+function archiveFilter(){
+  const q = (document.getElementById('aq')?.value || '').trim().toLowerCase();
+  const mo = document.getElementById('am')?.value || '';
+  const rg = document.getElementById('ar')?.value || '';
+  const sr = document.getElementById('as')?.value || '';
+  const words = q.split(/\s+/).filter(Boolean);
+  return ARCH.items.filter(it => {
+    const when = it.at || it.seen || '';
+    if (mo && when.slice(0,7) !== mo) return false;
+    if (sr && it.source !== sr) return false;
+    if (rg === 'kenya' && it.geo !== 'kenya') return false;
+    if (rg === 'world' && it.geo === 'kenya') return false;
+    const t = (it.title + ' ' + it.source).toLowerCase();
+    return words.every(w => t.includes(w));
+  });
+}
+function archiveResults(){
+  const list = archiveFilter(), shown = list.slice(0, ARCH_SHOWN);
+  let html = `<p class="arch-count">${list.length.toLocaleString('en-KE')} headline${list.length===1?'':'s'}${list.length > shown.length ? `, showing the newest ${shown.length}` : ''}</p>`;
+  let day = '';
+  for (const it of shown){
+    const d = dayName(it.at || it.seen);
+    if (d !== day){ day = d; html += `<div class="arch-day">${esc(d)}</div>`; }
+    html += `<a class="wcard" href="${esc(it.url)}" target="_blank" rel="noopener">
+      <div class="wm"><span class="rep">REPORTED</span><span>by ${esc(it.source)}</span>${it.at?`<span>· ${new Date(it.at).toLocaleTimeString('en-KE',{hour:'2-digit',minute:'2-digit',timeZone:'Africa/Nairobi'})} EAT</span>`:''}</div>
+      <h3>${esc(it.title)}</h3></a>`;
+  }
+  if (!list.length) html += `<div class="empty">No headlines match. Try fewer or different words.</div>`;
+  if (list.length > shown.length) html += `<button class="arch-more" id="amore" type="button">Show more</button>`;
+  document.getElementById('ares').innerHTML = html;
+  document.getElementById('amore')?.addEventListener('click', () => { ARCH_SHOWN += 100; archiveResults(); });
+}
+async function archivePage(){
+  const app = document.getElementById('app');
+  app.innerHTML = `<div class="page"><h1>News archive</h1><p>Every headline our Live wire has picked up since 1 October 2026, kept permanently. Search by word, month, region or outlet. These are reports from named outlets, each linked to the original. Stories Dira Signal has verified are in the main sections.</p><div class="empty">Loading the archive…</div></div>`;
+  const a = await loadArchive();
+  if (parse().view !== 'archive') return;
+  const sources = [...new Set(a.items.map(it => it.source))].sort();
+  app.innerHTML = `<div class="page"><h1>News archive</h1>
+    <p>Every headline our Live wire has picked up since 1 October 2026, kept permanently. Search by word, month, region or outlet. These are reports from named outlets, each linked to the original. Stories Dira Signal has verified are in the main sections.</p>
+    <div class="arch-controls">
+      <input id="aq" type="search" placeholder="Search headlines, e.g. Ebola, fuel prices, Kipchoge" aria-label="Search headlines">
+      <select id="am" aria-label="Month"><option value="">All months</option>${a.months.map(m => `<option value="${m}">${esc(monthName(m))}</option>`).join('')}</select>
+      <select id="ar" aria-label="Region"><option value="">Kenya and world</option><option value="kenya">Kenya</option><option value="world">Africa and world</option></select>
+      <select id="as" aria-label="Outlet"><option value="">All outlets</option>${sources.map(x => `<option>${esc(x)}</option>`).join('')}</select>
+    </div>
+    <div id="ares"></div></div>`;
+  let t;
+  ['aq','am','ar','as'].forEach(id => document.getElementById(id).addEventListener('input', () => { clearTimeout(t); t = setTimeout(() => { ARCH_SHOWN = 100; archiveResults(); }, 150); }));
+  archiveResults();
+}
+
 function verifyPage(){
   return `<div class="page" style="max-width:700px">
     <h1>How we verify</h1>
@@ -390,12 +496,13 @@ function route(scroll = true){
   else if (r.view === 'section' && SEC[r.a]) {
     const sec = SEC[r.a], subName = sec.subs.find(x => slug(x) === r.b);
     const list = STORIES.filter(s => s.section === r.a && (!subName || s.subsection === subName));
-    app.innerHTML = listPage(list, subName ? `${sec.label}: ${subName}` : sec.label);
+    app.innerHTML = listPage(list, subName ? `${sec.label}: ${subName}` : sec.label, undefined, subName ? null : r.a);
   }
-  else if (r.view === 'format' && FORMATS[r.a]) app.innerHTML = listPage(STORIES.filter(s => fmt(s) === r.a || (r.a==='breaking' && isBreaking(s))), FORMATS[r.a], FORMAT_INTRO[r.a]);
+  else if (r.view === 'format' && FORMATS[r.a]) app.innerHTML = listPage(STORIES.filter(s => fmt(s) === r.a || (r.a==='breaking' && isBreaking(s))), FORMATS[r.a], FORMAT_INTRO[r.a], null);
+  else if (r.view === 'archive') archivePage();
   else if (r.view === 'how-we-verify') app.innerHTML = verifyPage();
   else if (r.view === 'corrections') app.innerHTML = correctionsPage();
-  else app.innerHTML = listPage(STORIES);
+  else app.innerHTML = listPage(STORIES, undefined, undefined, '');
   if (scroll) window.scrollTo(0,0);
 }
 
