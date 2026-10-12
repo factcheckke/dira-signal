@@ -2,6 +2,447 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Ruto accuses Uhuru of betraying him ahead of 2027 polls",
+"url": "https://www.kbc.co.ke/ruto-accuses-uhuru-of-betraying-him-ahead-of-2027-polls/",
+"at": "2026-10-12T18:34:08+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Government, KEMSA call for stronger pharmacist leadership to ensure medicine availability, protect patients",
+"url": "https://www.kbc.co.ke/government-kemsa-call-for-stronger-pharmacist-leadership-to-ensure-medicine-availability-protect-patients/",
+"at": "2026-10-12T18:25:16+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+"at": "2026-10-12T18:24:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Egypt’s press union chief rejects pressure over detained journalists",
+"url": "https://www.aljazeera.com/news/2026/10/12/egypts-press-union-chief-rejects-pressure-over-detained-journalists?traffic_source=rss",
+"at": "2026-10-12T18:21:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
+"url": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
+"at": "2026-10-12T18:15:10+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Stolen Renoir paintings found behind wall in France following arrests",
+"url": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
+"at": "2026-10-12T18:10:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+"url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
+"at": "2026-10-12T18:01:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Kenya declares Ebola a formidable epidemic disease, sets new rules",
+"url": "https://www.standardmedia.co.ke/article/2001559985/kenya-declares-ebola-a-formidable-epidemic-disease-sets-new-rules",
+"at": "2026-10-12T17:52:48+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Zohran Mamdani orders use-of-force review for New York City police",
+"url": "https://www.aljazeera.com/news/2026/10/12/zohran-mamdani-orders-use-of-force-review-for-new-york-city-police?traffic_source=rss",
+"at": "2026-10-12T17:50:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
+"url": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
+"at": "2026-10-12T17:39:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "India’s voter list changes sparks fresh protests",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
+"at": "2026-10-12T17:33:51+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+"at": "2026-10-12T17:07:50+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+"url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-12T16:46:49+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Blast kills teenager, injures dozens in northern Israel",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
+"at": "2026-10-12T16:44:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Government to roll out e-Birth Notification System, says Murkomen",
+"url": "https://www.kbc.co.ke/government-to-roll-out-e-birth-notification-system-says-murkomen/",
+"at": "2026-10-12T16:41:33+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Photos: Protests over voter lists escalate in India’s capital",
+"url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
+"at": "2026-10-12T16:24:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Pope Leo continues working after lung surgery announcement",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
+"at": "2026-10-12T16:10:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "CS Duale Declares Ebola Bundibugyo a Formidable Epidemic Disease",
+"url": "https://capitalfm.africa/cs-duale-declares-ebola-bundibugyo-a-formidable-epidemic-disease/",
+"at": "2026-10-12T16:08:32+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+"url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+"at": "2026-10-12T16:02:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Australia close on win against South Africa",
+"url": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-12T16:02:01+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Teargas, gunshots as Malala leads protest in Kakamega",
+"url": "https://capitalfm.africa/teargas-gunshots-as-malala-leads-protest-in-kakamega/",
+"at": "2026-10-12T15:55:26+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "France school shooting: Police detain pupil after two injured",
+"url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+"at": "2026-10-12T15:47:43+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "The ICJ’s Rohingya ruling will test the OIC’s promises",
+"url": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss",
+"at": "2026-10-12T15:46:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+"url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+"at": "2026-10-12T15:30:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "South Africa’s deputy police chief resigns after being charged with sexual offences",
+"url": "https://capitalfm.africa/south-africas-deputy-police-chief-resigns-after-being-charged-with-sexual-offences/",
+"at": "2026-10-12T15:25:16+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+"at": "2026-10-12T15:19:23+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Nakuru Intensifies Crackdown on Criminal Gangs, Launches 107 Hotline Ahead of 2027 Polls",
+"url": "https://capitalfm.africa/nakuru-intensifies-crackdown-on-criminal-gangs-launches-107-hotline-ahead-of-2027-polls/",
+"at": "2026-10-12T15:06:20+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Ruto to Uhuru: You’re a conman, retire",
+"url": "https://capitalfm.africa/ruto-to-uhuru-youre-a-conman-retire/",
+"at": "2026-10-12T15:04:16+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Will Ukraine survive the winter?",
+"url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+"at": "2026-10-12T15:04:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Muturi calls for Duale’s resignation over alleged Ebola screening lapses",
+"url": "https://capitalfm.africa/muturi-calls-for-duales-resignation-over-alleged-ebola-screening-lapses/",
+"at": "2026-10-12T15:01:41+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "US agents search home of Ilhan Omar, Trump critic and Congress member",
+"url": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss",
+"at": "2026-10-12T14:59:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "‘If I’m Found Dead, Tell Them It Is Sarah’: Tob Cohen’s Final Warning Revealed in Murder Trial",
+"url": "https://capitalfm.africa/if-im-found-dead-tell-them-it-is-sarah-tob-cohens-final-warning-revealed-in-murder-trial/",
+"at": "2026-10-12T14:55:15+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Govt turns to podcasts to explain its agenda",
+"url": "https://capitalfm.africa/govt-turns-to-podcasts-to-explain-its-agenda/",
+"at": "2026-10-12T14:32:42+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+"url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
+"at": "2026-10-12T14:27:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+"url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
+"at": "2026-10-12T14:25:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Why are the Houthis striking Saudi airports?",
+"url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+"at": "2026-10-12T14:23:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
+"url": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
+"at": "2026-10-12T14:14:04+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Kindiki vows tough action against political violence sponsors",
+"url": "https://capitalfm.africa/kindiki-vows-tough-action-against-political-violence-sponsors/",
+"at": "2026-10-12T14:09:47+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Cherargei threatens fresh bid to extend Ruto’s stay in power",
+"url": "https://capitalfm.africa/cherargei-threatens-fresh-bid-to-extend-rutos-stay-in-power/",
+"at": "2026-10-12T13:45:38+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "King Mohammed VI of Morocco urges new MPS to prioritize action over titles",
+"url": "https://www.kbc.co.ke/king-mohammed-vi-of-morocco-urges-new-mps-to-prioritize-action-over-titles/",
+"at": "2026-10-12T13:44:48+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50",
+"url": "https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss",
+"at": "2026-10-12T13:44:17+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "What are the key matches to watch as the UEFA Champions League returns?",
+"url": "https://www.aljazeera.com/sports/2026/10/12/champions-league-schedule-teams-matches-players?traffic_source=rss",
+"at": "2026-10-12T13:43:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Kenya, Uganda to tackle pending trade barriers",
+"url": "https://www.kbc.co.ke/kenya-uganda-to-tackle-pending-trade-barriers/",
+"at": "2026-10-12T13:30:15+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Kindiki: Political violence sponsors, perpetrators to pay heavily",
+"url": "https://www.kbc.co.ke/kindiki-political-violence-sponsors-perpetrators-to-pay-heavily/",
+"at": "2026-10-12T13:18:45+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Mwea MP Mary Maingi calls for investment in grassroots sports to create jobs for youth",
+"url": "https://www.kbc.co.ke/mwea-mp-mary-maingi-calls-for-investment-in-grassroots-sports-to-create-jobs-for-youth/",
+"at": "2026-10-12T13:07:22+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Murder: DPP urges Supreme Court to uphold conviction of ex-Venezuelan diplomat",
+"url": "https://www.kbc.co.ke/murder-dpp-urges-supreme-court-to-uphold-conviction-of-ex-venezuelan-diplomat/",
+"at": "2026-10-12T12:23:03+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "How Absa Bank's employee data leak brought down multi-billion business",
+"url": "https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business",
+"at": "2026-10-12T12:20:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Five people survive helicopter crash in Kericho",
+"url": "https://www.kbc.co.ke/five-people-survive-helicopter-crash-in-kericho/",
+"at": "2026-10-12T11:51:08+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
+"title": "Northern Kenya residents oppose plan to scrap ENNDA, cite threat to livelihoods",
+"url": "https://www.kbc.co.ke/northern-kenya-residents-oppose-plan-to-scrap-ennda-cite-threat-to-livelihoods/",
+"at": "2026-10-12T11:30:23+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-12T18:58:58+00:00"
+},
+{
 "title": "Margaret Wanjiru Named Kenya Moja Movement Party Leader Amid Jubilee Talks",
 "url": "https://capitalfm.africa/margaret-wanjiru-named-kenya-moja-movement-party-leader-amid-jubilee-talks/",
 "at": "2026-10-12T11:06:59+00:00",
