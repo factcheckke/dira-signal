@@ -1,6 +1,168 @@
 {
- "updated": "2026-10-12T02:05:15+00:00",
+ "updated": "2026-10-12T06:32:18+00:00",
  "items": [
+  {
+   "title": "AI is less regulated than milk, says Microsoft president",
+   "url": "https://www.kbc.co.ke/ai-is-less-regulated-than-milk-says-microsoft-president/",
+   "at": "2026-10-12T06:27:22+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Strengthening mental health support for Kenya’s Community Health Promoters",
+   "url": "https://www.kbc.co.ke/strengthening-mental-health-support-for-kenyas-community-health-promoters/",
+   "at": "2026-10-12T06:13:48+00:00",
+   "source": "KBC",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
+   "at": "2026-10-12T06:07:44+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Lamu’s fisherfolk urged to tap diaspora skills, overseas job opportunities",
+   "url": "https://capitalfm.africa/lamus-fisherfolk-urged-to-tap-diaspora-skills-overseas-job-opportunities/",
+   "at": "2026-10-12T06:07:34+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
+   "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
+   "at": "2026-10-12T05:53:45+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
+   "at": "2026-10-12T05:27:22+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "KDF tests disaster readiness as Kenya prepares for potential El Niño emergencies",
+   "url": "https://capitalfm.africa/kdf-tests-disaster-readiness-as-kenya-prepares-for-potential-el-nino-emergencies/",
+   "at": "2026-10-12T05:07:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Lured to death: The pain of missing Kenyans in Russia-Ukraine war",
+   "url": "https://www.standardmedia.co.ke/article/2001559926/lured-to-death-the-pain-of-missing-kenyans-in-russia-ukraine-war",
+   "at": "2026-10-12T05:00:00+00:00",
+   "source": "The Standard",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+   "at": "2026-10-12T04:58:01+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+   "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+   "at": "2026-10-12T04:24:18+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "AU to push for financial reforms, debt relief at IMF-World Bank meetings",
+   "url": "https://capitalfm.africa/au-to-push-for-financial-reforms-debt-relief-at-imf-world-bank-meetings/",
+   "at": "2026-10-12T04:11:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Pope Leo to have surgery after lump found on lung",
+   "url": "https://capitalfm.africa/pope-leo-to-have-surgery-after-lump-found-on-lung/",
+   "at": "2026-10-12T04:04:15+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+   "at": "2026-10-12T04:00:56+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "North Korea fires multiple ballistic missiles towards the sea",
+   "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+   "at": "2026-10-12T03:37:12+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Kenya seeks development financing at global economic meetings",
+   "url": "https://capitalfm.africa/kenya-seeks-development-financing-at-global-economic-meetings/",
+   "at": "2026-10-12T03:34:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Wetang’ula in China for international legislators’ forum",
+   "url": "https://capitalfm.africa/wetangula-in-china-for-international-legislators-forum/",
+   "at": "2026-10-12T03:10:00+00:00",
+   "source": "Capital FM",
+   "tier": 2,
+   "geo": "kenya",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+   "at": "2026-10-12T03:09:11+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
+  {
+   "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+   "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+   "at": "2026-10-12T02:11:21+00:00",
+   "source": "Al Jazeera",
+   "tier": 2,
+   "geo": "world",
+   "seen": "2026-10-12T06:32:18+00:00"
+  },
   {
    "title": "Bridge washed away by torrent of water in Nepal",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
@@ -8,7 +170,7 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
@@ -17,7 +179,7 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
@@ -26,7 +188,7 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
@@ -35,7 +197,7 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
@@ -44,7 +206,7 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
@@ -53,43 +215,16 @@
    "source": "Al Jazeera",
    "tier": 2,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
-   "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-   "at": "2026-10-11T23:20:46+00:00",
-   "source": "Al Jazeera",
+   "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+   "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-11T23:13:20+00:00",
+   "source": "BBC Africa",
    "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-   "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
-   "at": "2026-10-11T23:17:05+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
-   "at": "2026-10-11T22:49:23+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-   "at": "2026-10-11T22:24:07+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "geo": "africa",
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
@@ -98,61 +233,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Waves crash into homes as excavators try to protect California properties",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
-   "at": "2026-10-11T21:03:41+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "US report flags Kenyan officials over Russia military recruitment",
-   "url": "https://www.standardmedia.co.ke/article/2001559926/us-report-flags-kenyan-officials-over-russia-military-recruitment",
-   "at": "2026-10-11T21:00:00+00:00",
-   "source": "The Standard",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
-   "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
-   "at": "2026-10-11T20:57:48+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Two killed near Israeli-occupied area in south Lebanon",
-   "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-   "at": "2026-10-11T20:46:45+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-   "at": "2026-10-11T20:44:17+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "How Man City beat Liverpool after guilty verdict",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
-   "at": "2026-10-11T20:41:09+00:00",
-   "source": "Al Jazeera",
-   "tier": 2,
-   "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Man dies after tiger attack at wildlife park",
@@ -161,7 +242,7 @@
    "source": "Capital FM",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -170,7 +251,7 @@
    "source": "Capital FM",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "1,000 compete in Mombasa satellite run ahead of 23rd Standard Chartered Nairobi marathon",
@@ -179,7 +260,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kenya’s Dolphin Omare claims victory at Hyundai Half Marathon",
@@ -188,7 +269,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Govt to set up two new referral hospitals in Kakamega, Garissa",
@@ -197,7 +278,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
@@ -206,7 +287,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "US justice department investigates TV networks over Trump pool coverage",
@@ -215,7 +296,7 @@
    "source": "Capital FM",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Ruto Sets April 2027 Deadline for Rironi-Mau Summit Highway",
@@ -224,7 +305,7 @@
    "source": "Capital FM",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kenyan hotel lands on Tripadvisor’s Best of the Best 2026 list",
@@ -233,16 +314,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Oluga Challenges JOOTRH Staff to Improve Patient Care Amid Public Complaints",
-   "url": "https://capitalfm.africa/oluga-challenges-jootrh-staff-to-improve-patient-care-amid-public-complaints/",
-   "at": "2026-10-11T13:30:00+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "In Pictures: Fred Machoka celebrates 50 years in broadcasting",
@@ -251,7 +323,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kenyan poet Timelines finishes second at World Poetry Slam Championship",
@@ -260,16 +332,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Ruto to Opposition: ‘I Will Deal With You’",
-   "url": "https://capitalfm.africa/ruto-to-opposition-i-will-deal-with-you/",
-   "at": "2026-10-11T11:30:00+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Russian cultural festival draws to a close in Nairobi",
@@ -278,7 +341,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Optics tell it all: Why William Ruto looks tell of a desperate politician",
@@ -287,25 +350,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-   "url": "https://capitalfm.africa/twelve-killed-and-300-injured-in-attack-on-airport-in-saudi-capital-riyadh/",
-   "at": "2026-10-11T09:05:53+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Gachagua Mocks Ruto’s Proposal to Import Buffaloes for Milk",
-   "url": "https://capitalfm.africa/gachagua-mocks-rutos-proposal-to-import-buffaloes-for-milk/",
-   "at": "2026-10-11T08:20:56+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
@@ -314,7 +359,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Bett and Chepkurui win Betika Cross country in Kericho",
@@ -323,43 +368,7 @@
    "source": "KBC",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Ruto Announces Plan to Cut Cocoa Seedling Prices as Kenya Launches Cocoa Farming",
-   "url": "https://capitalfm.africa/ruto-announces-plan-to-cut-cocoa-seedling-prices-as-kenya-launches-cocoa-farming/",
-   "at": "2026-10-11T08:13:16+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "MoH Urges Kenyans to Use Protective Gear When Handling Suspected Ebola Cases",
-   "url": "https://capitalfm.africa/moh-urges-kenyans-to-use-protective-gear-when-handling-suspected-ebola-cases/",
-   "at": "2026-10-11T08:00:30+00:00",
-   "source": "Capital FM",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Natembeya has blocked development in Trans Nzoia, Murkomen says",
-   "url": "https://www.kbc.co.ke/natembeya-has-blocked-development-in-trans-nzoia-murkomen-says/",
-   "at": "2026-10-11T07:56:32+00:00",
-   "source": "KBC",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
-   "url": "https://www.kbc.co.ke/afrobeats-singer-ayra-starr-on-making-history-at-her-nfl-half-time-show/",
-   "at": "2026-10-11T07:00:44+00:00",
-   "source": "KBC",
-   "tier": 2,
-   "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Ruto wades into growing ODM-UDA conflict",
@@ -368,7 +377,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
@@ -377,7 +386,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Questions remain over Ebola patient who travelled across three nations undetected",
@@ -386,7 +395,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Afrobeats singer Ayra Starr on making history at her NFL half-time show",
@@ -395,16 +404,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
-  },
-  {
-   "title": "South Africa's Navi Pillay wins Nobel Peace Prize for 'efforts to promote peace and international law'",
-   "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-09T17:37:10+00:00",
-   "source": "BBC Africa",
-   "tier": 2,
-   "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kalonzo to Ruto: You have no numbers",
@@ -413,7 +413,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -422,7 +422,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
@@ -431,7 +431,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Revealed: 84 Kenyans killed, 52 missing in Russia-Ukraine war",
@@ -440,7 +440,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
@@ -449,7 +449,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
@@ -458,7 +458,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Wajir patient isolated over suspected viral haemorrhagic fever",
@@ -467,7 +467,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Complainant letters cannot be used to initiate judge's removal, court rules",
@@ -476,7 +476,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
@@ -485,7 +485,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "How KNEC plans to stop cheating in 2026 exams",
@@ -494,7 +494,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Mbadi hits out at Sifuna, says opposition lacks economic agenda",
@@ -503,7 +503,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
@@ -512,7 +512,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kericho Annex Prison under scrutiny over death of remand prisoner",
@@ -521,7 +521,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
@@ -530,7 +530,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -539,7 +539,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
@@ -548,7 +548,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Pregnant woman found dead by roadside in Kirinyaga with head, hip injuries",
@@ -557,7 +557,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
@@ -566,7 +566,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
@@ -575,7 +575,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
@@ -584,7 +584,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Ruto downplays rivalry over oil refinery in East Africa",
@@ -593,7 +593,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
@@ -602,7 +602,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "The journalist crowned king in Uganda after bitter succession dispute",
@@ -611,7 +611,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
@@ -620,7 +620,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Outrage as KDF officers detain human rights team along Malindi-Lamu highway",
@@ -629,7 +629,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
@@ -638,7 +638,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Why are Ethiopia's rebels joining forces?",
@@ -647,7 +647,7 @@
    "source": "BBC Africa",
    "tier": 2,
    "geo": "africa",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Kalonzo signals at working with Ruto if 2027 poll is free and fair",
@@ -656,7 +656,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "ODM delegates reject Sakaja using the party for gubernatorial bid",
@@ -665,7 +665,7 @@
    "source": "The Standard",
    "tier": 2,
    "geo": "kenya",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
@@ -674,7 +674,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
@@ -683,7 +683,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
@@ -692,7 +692,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
@@ -701,7 +701,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
@@ -710,7 +710,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   },
   {
    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
@@ -719,7 +719,7 @@
    "source": "US Federal Reserve",
    "tier": 1,
    "geo": "world",
-   "seen": "2026-10-12T02:05:15+00:00"
+   "seen": "2026-10-12T06:32:18+00:00"
   }
  ]
 }
