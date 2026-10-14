@@ -2,6 +2,384 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Mudavadi: Kenya remains committed to proactive bilateral engagements",
+"url": "https://www.kbc.co.ke/mudavadi-kenya-remains-committed-to-proactive-bilateral-engagements/",
+"at": "2026-10-14T14:37:11+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Five arrested as DCI recovers 57 phones in Nairobi, Thika crackdown",
+"url": "https://capitalfm.africa/five-arrested-as-dci-recovers-57-phones-in-nairobi-thika-crackdown/",
+"at": "2026-10-14T14:25:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Colombia inaugurates embassy to Israel in Jerusalem",
+"url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+"at": "2026-10-14T14:08:45+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Blow to Waititu as High Court upholds 12-year sentence in Sh588m graft case",
+"url": "https://www.standardmedia.co.ke/article/2001560126/blow-to-waititu-as-high-court-upholds-12-year-sentence-in-sh588m-graft-case",
+"at": "2026-10-14T14:06:28+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Kindiki says Kenya Kwanza has exceeded development targets, ready to face voters",
+"url": "https://capitalfm.africa/kindiki-says-kenya-kwanza-has-exceeded-development-targets-ready-to-face-voters/",
+"at": "2026-10-14T13:58:11+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "When every second counts: What you need to know about CPR",
+"url": "https://www.kbc.co.ke/when-every-second-counts-what-you-need-to-know-about-cpr/",
+"at": "2026-10-14T13:57:47+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Two scenarios for the Yemen war",
+"url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+"at": "2026-10-14T13:50:28+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Parties face Thursday deadline in IEBC’s 2027 election timetable",
+"url": "https://capitalfm.africa/parties-face-thursday-deadline-in-iebcs-2027-election-timetable/",
+"at": "2026-10-14T13:41:12+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "UK restaurateur claims losses after video calling for Gaza destruction",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+"at": "2026-10-14T13:28:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "How AI apps are offering free substitutes for Big Tech software",
+"url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+"at": "2026-10-14T13:25:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
+"at": "2026-10-14T13:22:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "‘You know nothing about fuel prices,’ Wandayi tells Gachagua",
+"url": "https://capitalfm.africa/you-know-nothing-about-fuel-prices-wandayi-tells-gachagua/",
+"at": "2026-10-14T13:18:46+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "What we know about OpenAI engineer arrested over office spying",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
+"at": "2026-10-14T13:18:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+"url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+"at": "2026-10-14T13:17:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Man City’s appeal over 114 charges to be heard by January, regulator says",
+"url": "https://www.aljazeera.com/sports/2026/10/14/manchester-city-appeal-over-charges-to-be-heard-by-january-says-regulator?traffic_source=rss",
+"at": "2026-10-14T12:52:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+"url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+"at": "2026-10-14T12:50:51+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "How DHA is using technology to connect hospitals and improve patient care",
+"url": "https://capitalfm.africa/how-dha-is-using-technology-to-connect-hospitals-and-improve-patient-care/",
+"at": "2026-10-14T12:45:47+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "NDMU urges disaster risk reduction in development planning",
+"url": "https://capitalfm.africa/ndmu-urges-disaster-risk-reduction-in-development-planning/",
+"at": "2026-10-14T12:41:51+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Murkomen: One-stop border post to be opened at Konyao, West Pokot",
+"url": "https://www.kbc.co.ke/murkomen-one-stop-border-post-to-be-opened-at-konyao-west-pokot/",
+"at": "2026-10-14T12:35:19+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Court halts Aberdare forest logging regardless of licence status",
+"url": "https://capitalfm.africa/court-halts-aberdare-forest-logging-regardless-of-licence-status/",
+"at": "2026-10-14T12:31:30+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+"at": "2026-10-14T12:28:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "New Africa AI Council to scrutinise technology policies ahead of 2027 elections",
+"url": "https://www.kbc.co.ke/new-africa-ai-council-to-scrutinise-technology-policies-ahead-of-2027-elections/",
+"at": "2026-10-14T12:18:51+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "IEBC summons Hassan Omar over deceased voters remarks",
+"url": "https://capitalfm.africa/iebc-summons-hassan-omar-over-deceased-voters-remarks/",
+"at": "2026-10-14T12:12:09+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "PS Karugu Hails Ruto’s Digital Learning Platform as Nyaribo Junior School Represents Mt Kenya",
+"url": "https://capitalfm.africa/ps-karugu-hails-rutos-digital-learning-platform-as-nyaribo-junior-school-represents-mt-kenya/",
+"at": "2026-10-14T12:12:08+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Fulham manager Arbeloa fined for Man Utd refereeing outburst",
+"url": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss",
+"at": "2026-10-14T12:03:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Do any of these Israeli candidates support a Palestinian state?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+"at": "2026-10-14T11:43:29+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+"url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+"at": "2026-10-14T11:39:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Mauritius reels from worst riots in decades after woman shot by police",
+"url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-14T11:24:25+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+"url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+"at": "2026-10-14T11:16:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Security, infrastructure development take centre stage as Mashujaa week kicks off",
+"url": "https://www.kbc.co.ke/security-infrastructure-development-take-centre-stage-as-mashujaa-week-kicks-off/",
+"at": "2026-10-14T11:12:03+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Trump plans for ‘massive’ resource exploration in Greenland",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+"at": "2026-10-14T11:05:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Stress worries as counties urged to prioritize payment of community health workers",
+"url": "https://www.kbc.co.ke/stress-worries-as-counties-urged-to-prioritize-payment-of-community-health-workers/",
+"at": "2026-10-14T11:04:24+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+"url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+"at": "2026-10-14T10:57:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "EACC backs stronger oversight in management of public funds",
+"url": "https://www.kbc.co.ke/eacc-backs-stronger-oversight-in-management-of-public-funds/",
+"at": "2026-10-14T10:53:27+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
+"url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+"at": "2026-10-14T10:49:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+"url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
+"at": "2026-10-14T10:46:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Beyond the Complaints Desk: The long road to police accountability",
+"url": "https://capitalfm.africa/beyond-the-complaints-desk-the-long-road-to-police-accountability/",
+"at": "2026-10-14T10:37:12+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Albanian students clash with police as they protest over education and jobs",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
+"at": "2026-10-14T10:14:17+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Israeli air strike kills Palestinian woman in Gaza City",
+"url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+"at": "2026-10-14T10:08:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "How a radio glitch triggered a false hijack alert in Germany",
+"url": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
+"at": "2026-10-14T09:53:54+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Bolt comparisons a 'privilege' - Dambile",
+"url": "https://www.bbc.co.uk/sport/athletics/articles/cv4g5gkw7kr4o?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-14T09:50:11+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
+"title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
+"at": "2026-10-14T09:40:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-14T14:41:48+00:00"
+},
+{
 "title": "DCI rolls out biometric system at diplomatic police unit",
 "url": "https://www.kbc.co.ke/dci-rolls-out-biometric-system-at-diplomatic-police-unit/",
 "at": "2026-10-14T09:30:52+00:00",
@@ -81,6 +459,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-10-14T09:42:22+00:00"
+},
+{
+"title": "Op-Ed: Beyond the glass: How Kenyans are rewriting the social ccript for vodka",
+"url": "https://www.kbc.co.ke/op-ed-beyond-the-glass-how-kenyans-are-rewriting-the-social-ccript-for-vodka/",
+"at": "2026-10-14T08:24:01+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-14T14:41:48+00:00"
 },
 {
 "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
