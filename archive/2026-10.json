@@ -2,6 +2,114 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Students in Europe are rising up to call for better education",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+"at": "2026-10-16T20:38:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+"at": "2026-10-16T20:37:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Oregon community mourns victims of school shooting",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+"at": "2026-10-16T20:08:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+"url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+"at": "2026-10-16T20:07:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Trump told new press secretary to ‘reconsider’ role",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+"at": "2026-10-16T19:41:15+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+"at": "2026-10-16T19:18:13+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "White House press secretary Katie Zacharia fired after five days on the job",
+"url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+"at": "2026-10-16T18:58:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Kenya records third Ebola case, linked to first patient who died",
+"url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+"at": "2026-10-16T18:57:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+"url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+"at": "2026-10-16T18:26:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+"url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+"at": "2026-10-16T18:21:43+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "Ukraine president targets Trump, Putin at EU summit",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+"at": "2026-10-16T17:59:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
+"title": "US records 4,410 measles cases as outbreak grows",
+"url": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
+"at": "2026-10-16T17:40:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-16T20:55:37+00:00"
+},
+{
 "title": "Ukraine repels Russian forces as US support wavers, energy strikes escalate",
 "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
 "at": "2026-10-16T17:28:41+00:00",
