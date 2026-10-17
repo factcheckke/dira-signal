@@ -2,6 +2,204 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Buildings and cars set on fire as cost of living protests rock France",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+"at": "2026-10-17T16:00:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Pope discharged from hospital days after lung cancer surgery",
+"url": "https://www.kbc.co.ke/pope-discharged-from-hospital-days-after-lung-cancer-surgery/",
+"at": "2026-10-17T15:49:22+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Pope Leo leaves hospital after lung cancer surgery",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+"at": "2026-10-17T15:47:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Macky Sall withdraws from UN Secretary-General race after Sixth straw poll",
+"url": "https://capitalfm.africa/macky-sall-withdraws-from-un-secretary-general-race-after-sixth-straw-poll/",
+"at": "2026-10-17T15:34:46+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+"url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+"at": "2026-10-17T15:25:27+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Kenya confirms 4 new Ebola cases",
+"url": "https://www.kbc.co.ke/three-health-workers-test-positive/",
+"at": "2026-10-17T15:25:16+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+"url": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
+"at": "2026-10-17T15:20:27+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+"url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+"at": "2026-10-17T14:57:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Ebola cases rise to 7 as 4 new cases detected in quarantine",
+"url": "https://capitalfm.africa/ebola-cases-rise-to-seven-in-kenya-as-three-health-workers-test-positive/",
+"at": "2026-10-17T14:51:11+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Why adults are going back to summer camp",
+"url": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+"at": "2026-10-17T14:36:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Kenya confirms four new Ebola cases, total now at seven",
+"url": "https://www.standardmedia.co.ke/article/2001560329/kenya-confirms-four-new-ebola-cases-total-now-at-seven",
+"at": "2026-10-17T14:33:11+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+"url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+"at": "2026-10-17T14:28:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "African blocs push joint funding, local production of medical supplies",
+"url": "https://capitalfm.africa/african-blocs-push-joint-funding-local-production-of-medical-supplies/",
+"at": "2026-10-17T14:23:56+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "King Mohammed VI swears in Morocco’s New Cabinet to lead future Modernisation",
+"url": "https://www.kbc.co.ke/king-mohammed-vi-swears-in-moroccos-new-cabinet-to-lead-future-modernisation/",
+"at": "2026-10-17T14:18:24+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "We will not tolerate ‘lazy’ contractors, DP Kindiki warns",
+"url": "https://www.kbc.co.ke/we-will-not-tolerate-lazy-contractors-dp-kindiki-warns/",
+"at": "2026-10-17T14:12:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+"url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+"at": "2026-10-17T14:06:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+"url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+"at": "2026-10-17T14:00:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+"url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+"at": "2026-10-17T13:56:29+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "All workers accounted for after former Club Avenida demolition injures four",
+"url": "https://capitalfm.africa/all-workers-accounted-for-after-former-club-avenida-demolition-injures-four/",
+"at": "2026-10-17T13:54:11+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Detectives recover Land Rover Discovery stolen in UK",
+"url": "https://www.kbc.co.ke/detectives-recover-land-rover-discovery-stolen-in-uk/",
+"at": "2026-10-17T13:53:25+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "‘Yellow vest’ legacy fuels France protests as thousands demand reforms",
+"url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+"at": "2026-10-17T13:44:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
+"title": "Why Trump’s latest White House press secretary lasted just five days",
+"url": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
+"at": "2026-10-17T13:41:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-17T16:40:33+00:00"
+},
+{
 "title": "Child, four women among Palestinians injured in West Bank pogroms",
 "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
 "at": "2026-10-17T12:48:03+00:00",
