@@ -2,6 +2,132 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Kenya Ebola cases rise to 8 as one more patient tests positive",
+"url": "https://capitalfm.africa/kenya-ebola-cases-rise-to-8-as-one-more-patient-tests-positive/",
+"at": "2026-10-18T19:15:49+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "How will Europe deal with youth-led protests?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
+"at": "2026-10-18T19:15:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
+"at": "2026-10-18T19:12:30+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+"url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+"at": "2026-10-18T19:11:27+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Kenyan tech firm Robisearch wins enterprise resource planning award",
+"url": "https://www.kbc.co.ke/kenyan-tech-firm-robisearch-wins-enterprise-resource-planning-award/",
+"at": "2026-10-18T19:04:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Kenya reports one more Ebola case, total rises to 8",
+"url": "https://www.kbc.co.ke/kenya-reports-one-more-ebola-case-total-rises-to-8/",
+"at": "2026-10-18T19:03:41+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+"url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+"at": "2026-10-18T18:44:30+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+"at": "2026-10-18T18:36:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Why the US is holding secret talks with Myanmar’s military ruler",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+"at": "2026-10-18T18:22:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+"at": "2026-10-18T17:58:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "ODM leaders rally behind Ruto in Garissa, vow to preserve Raila’s legacy",
+"url": "https://www.kbc.co.ke/odm-leaders-rally-behind-ruto-in-garissa-vow-to-preserve-railas-legacy/",
+"at": "2026-10-18T17:55:04+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+"at": "2026-10-18T17:52:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
+"url": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
+"at": "2026-10-18T17:48:17+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
+"title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+"at": "2026-10-18T17:20:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T19:35:09+00:00"
+},
+{
 "title": "Trump endorses Netanyahu in Israeli legislative elections",
 "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
 "at": "2026-10-18T16:36:26+00:00",
@@ -387,6 +513,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Sifuna’s foreign flags: An Abuse of Kenya’s territorial integrity and sovereignty",
+"url": "https://www.kbc.co.ke/sifunas-foreign-flags-an-abuse-of-kenyas-territorial-integrity-and-sovereignty/",
+"at": "2026-10-18T09:29:49+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T19:35:09+00:00"
 },
 {
 "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
