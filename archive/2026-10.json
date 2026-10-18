@@ -2,6 +2,42 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Israeli settlers attack European diplomats in the occupied West Bank",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+"at": "2026-10-18T01:02:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T01:10:26+00:00"
+},
+{
+"title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+"url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+"at": "2026-10-18T00:00:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T01:10:26+00:00"
+},
+{
+"title": "US ambassador urges Israel to prosecute attackers of American journalist",
+"url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+"at": "2026-10-17T23:40:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T01:10:26+00:00"
+},
+{
+"title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+"url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+"at": "2026-10-17T23:21:57+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T01:10:26+00:00"
+},
+{
 "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
 "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
 "at": "2026-10-17T21:08:10+00:00",
