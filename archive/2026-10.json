@@ -2,6 +2,294 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+"url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+"at": "2026-10-18T10:34:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Russia’s war in Ukraine puts Europe on edge",
+"url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+"at": "2026-10-18T10:33:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+"url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+"at": "2026-10-18T10:30:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+"url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+"at": "2026-10-18T10:23:38+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+"at": "2026-10-18T10:18:03+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "South African rugby player Hyron Andrews paid emotional tribute in France",
+"url": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
+"at": "2026-10-18T10:02:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "84 HR officers linked to Sh6.2 billion payroll fraud sent on forced leave",
+"url": "https://www.standardmedia.co.ke/article/2001560370/84-hr-officers-linked-to-sh6-2-billion-payroll-fraud-sent-on-forced-leave",
+"at": "2026-10-18T10:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+"url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+"at": "2026-10-18T09:42:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+"url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+"at": "2026-10-18T09:22:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+"url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+"at": "2026-10-18T09:16:54+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "LIVE: Leeds United vs Manchester United – Premier League",
+"url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+"at": "2026-10-18T09:16:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+"url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
+"at": "2026-10-18T08:56:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Rwandans in Kenya celebrate culture at Nairobi gala",
+"url": "https://capitalfm.africa/rwandans-in-kenya-celebrate-culture-at-nairobi-gala/",
+"at": "2026-10-18T08:47:43+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Amsons Group Acquires Oryx Energies Tanzania business in a Historic Energy Transaction",
+"url": "https://capitalfm.africa/amsons-group-acquires-oryx-energies-tanzania-business-in-a-historic-energy-transaction/",
+"at": "2026-10-18T08:40:49+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
+"url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
+"at": "2026-10-18T08:40:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss",
+"at": "2026-10-18T08:25:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "‘Young protesters across Europe share grievances and tactics’",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss",
+"at": "2026-10-18T08:25:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Photos: Protests across France spiral into looting, blazes and clashes",
+"url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss",
+"at": "2026-10-18T08:21:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "There is no split in MAGA",
+"url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss",
+"at": "2026-10-18T08:14:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Africa CDC calls for stronger regional Ebola surveillance as Kenya cases rise to 7",
+"url": "https://capitalfm.africa/africa-cdc-calls-for-stronger-regional-ebola-surveillance-as-kenya-cases-rise-to-7/",
+"at": "2026-10-18T08:08:18+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Violent clashes, looting and buildings ablaze in France",
+"url": "https://www.kbc.co.ke/violent-clashes-looting-and-buildings-ablaze-in-france/",
+"at": "2026-10-18T08:05:35+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Kenya explores Chinese partnerships to boost satellite technology, space expertise",
+"url": "https://capitalfm.africa/kenya-explores-chinese-partnerships-to-boost-satellite-technology-space-expertise/",
+"at": "2026-10-18T07:42:32+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Why Iran-US negotiations keep failing",
+"url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+"at": "2026-10-18T07:32:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+"url": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+"at": "2026-10-18T07:08:33+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "IGAD urges East African states to tackle E-Waste as global discarded electronics hit 62 bn kilos",
+"url": "https://capitalfm.africa/igad-urges-east-african-states-to-tackle-e-waste-as-global-discarded-electronics-hit-62-bn-kilos/",
+"at": "2026-10-18T07:06:22+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Israel’s ties with Europe are fraying. Can its election change that?",
+"url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+"at": "2026-10-18T07:05:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Four arrested with 38.6kg of suspected game meat in Laikipia",
+"url": "https://capitalfm.africa/four-arrested-with-38-6kg-of-suspected-game-meat-in-laikipia/",
+"at": "2026-10-18T06:45:55+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Security officers urged to seek mental health support, uphold integrity",
+"url": "https://capitalfm.africa/security-officers-urged-to-seek-mental-health-support-uphold-integrity/",
+"at": "2026-10-18T06:38:56+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+"url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+"at": "2026-10-18T06:34:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Kenya to host African air forces exercise to test disaster response",
+"url": "https://capitalfm.africa/kenya-to-host-african-air-forces-exercise-to-test-disaster-response/",
+"at": "2026-10-18T06:19:43+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Kenya, UK and US deepen intelligence sharing in counter-terrorism push",
+"url": "https://capitalfm.africa/kenya-uk-and-us-deepen-intelligence-sharing-in-counter-terrorism-push/",
+"at": "2026-10-18T06:04:46+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
+"title": "Rwandan Embassy hosts second Rwanda Cultural Gala and Exhibition",
+"url": "https://www.kbc.co.ke/rwandan-embassy-hosts-second-rwanda-cultural-gala-and-exhibition/",
+"at": "2026-10-18T06:03:39+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
+},
+{
 "title": "Pope Leo XIV to lead Sunday Angelus after hospital discharge",
 "url": "https://capitalfm.africa/pope-leo-xiv-to-lead-sunday-angelus-after-hospital-discharge/",
 "at": "2026-10-18T05:57:32+00:00",
@@ -72,6 +360,15 @@
 "tier": 2,
 "geo": "kenya",
 "seen": "2026-10-18T06:01:36+00:00"
+},
+{
+"title": "Why ‘tech bros’ are Hollywood’s new villains",
+"url": "https://www.kbc.co.ke/why-tech-bros-are-hollywoods-new-villains/",
+"at": "2026-10-18T05:02:19+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-18T10:57:18+00:00"
 },
 {
 "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
