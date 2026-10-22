@@ -2,6 +2,384 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Two European women held captive for more than a year in Niger freed in Libya",
+"url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-22T11:13:12+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "MTRH isolates one person for 21-day Ebola monitoring",
+"url": "https://www.kbc.co.ke/mtrh-isolates-one-person-for-21-day-ebola-monitoring/",
+"at": "2026-10-22T11:04:23+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Trump praises man who punched protester at rally in South Carolina",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+"at": "2026-10-22T10:58:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "PS Oluga calls for accountability, fast-tracking of healthcare digitisation",
+"url": "https://www.kbc.co.ke/oluga-calls-for-accountability-fast-tracking-of-healthcare-digitisation/",
+"at": "2026-10-22T10:57:54+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+"url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+"at": "2026-10-22T10:51:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+"url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+"at": "2026-10-22T10:45:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Mudavadi calls for accountability, fairer global institutions to rebuild public confidence",
+"url": "https://capitalfm.africa/mudavadi-calls-for-accountability-fairer-global-institutions-to-rebuild-public-confidence/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-10-22T10:35:01+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Key summit to bridge skills gap, expand cross-border job opportunities for youth",
+"url": "https://www.kbc.co.ke/key-summit-to-bridge-skills-gap-expand-cross-border-job-opportunities-for-youth/",
+"at": "2026-10-22T10:19:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Ruto warns African leaders against making promises their budgets cannot fund",
+"url": "https://capitalfm.africa/ruto-warns-african-leaders-against-making-promises-their-budgets-cannot-fund/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-10-22T10:16:30+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
+"url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
+"at": "2026-10-22T10:06:58+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Israeli forces kill disabled man in southern Syria raid, state media says",
+"url": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
+"at": "2026-10-22T10:01:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Can European leaders fix the cost-of-living crisis?",
+"url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
+"at": "2026-10-22T09:58:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+"at": "2026-10-22T09:57:47+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "IPG calls for evidence-based debate on Lamu Dangote refinery",
+"url": "https://capitalfm.africa/ipg-calls-for-evidence-based-debate-on-lamu-dangote-refinery/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-10-22T09:43:32+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Brazil’s president appeals to undecided voters ahead of run-off",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
+"at": "2026-10-22T09:42:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "PS Mukhwana backs Lamu refinery at IPG forum, says investment could spur industrial growth",
+"url": "https://capitalfm.africa/ps-mukhwana-backs-lamu-refinery-at-ipd-forum-says-investment-could-spur-industrial-growth/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-10-22T09:31:37+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Meru quarry collapse: One dead as search efforts continue",
+"url": "https://www.kbc.co.ke/meru-quarry-collapse-one-dead-as-search-efforts-continue/",
+"at": "2026-10-22T09:28:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Morocco lift record fourth CAF Futsal AFCON",
+"url": "https://www.kbc.co.ke/morocco-lift-record-fourth-caf-futsal-afcon/",
+"at": "2026-10-22T09:27:02+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+"url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+"at": "2026-10-22T09:23:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Reprieve for Mike Sonko as impeachment case prioritised",
+"url": "https://www.kbc.co.ke/reprieve-for-mike-sonko-as-impeachment-case-prioritised/",
+"at": "2026-10-22T09:21:47+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
+"url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+"at": "2026-10-22T09:00:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "How Ruto's 'tutam' has become political stage ground for allies",
+"url": "https://www.standardmedia.co.ke/article/2001560643/how-ruto-s-tutam-has-become-political-stage-ground-for-allies",
+"at": "2026-10-22T09:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Israeli elections: Is it just right wing versus right?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
+"at": "2026-10-22T08:55:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Disease prevention cannot wait",
+"url": "https://www.kbc.co.ke/disease-prevention-cannot-wait/",
+"at": "2026-10-22T08:44:40+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "AgriFin Summit to tackle survival of digital farming services beyond donor funding",
+"url": "https://capitalfm.africa/agrifin-summit-to-tackle-survival-of-digital-farming-services-beyond-donor-funding/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-10-22T08:39:46+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+"at": "2026-10-22T08:33:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+"url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+"at": "2026-10-22T08:18:39+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Can Russia broker a new US-Iran deal?",
+"url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+"at": "2026-10-22T08:00:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+"url": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
+"at": "2026-10-22T07:53:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Stable policies to accelerate investment in construction sector",
+"url": "https://www.kbc.co.ke/stable-policies-to-accelerate-investment-in-construction-sector/",
+"at": "2026-10-22T07:52:49+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Africa’s digital agriculture shifts focus to sustainable growth",
+"url": "https://www.kbc.co.ke/africas-digital-agriculture-shifts-focus-to-sustainable-growth/",
+"at": "2026-10-22T07:45:31+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Meta faces Australian lawsuit over alleged social media harm to children",
+"url": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
+"at": "2026-10-22T07:23:12+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Wrong national anthems played three times at Asian Para Games in Japan",
+"url": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
+"at": "2026-10-22T07:10:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+"url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+"at": "2026-10-22T07:02:10+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "IPOA probes arrest, detention of journalist Ode Francis",
+"url": "https://www.kbc.co.ke/ipoa-probes-arrest-detention-of-journalist-ode-francis/",
+"at": "2026-10-22T06:53:23+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "US universities are failing to protect victims of sexual assault",
+"url": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
+"at": "2026-10-22T06:47:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "China edge USA to women’s team gold at Gymnastics World Championships",
+"url": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
+"at": "2026-10-22T06:23:30+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+"url": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
+"at": "2026-10-22T06:06:28+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+"url": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
+"at": "2026-10-22T06:01:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "The world is $365 trillion in debt, and the interest bill is climbing",
+"url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+"at": "2026-10-22T05:59:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+"url": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+"at": "2026-10-22T05:58:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
+"title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+"url": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
+"at": "2026-10-22T05:54:12+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T11:22:37+00:00"
+},
+{
 "title": "WHO warns of rising heat risks for mothers, children",
 "url": "https://www.kbc.co.ke/who-warns-of-rising-heat-risks-for-mothers-children/",
 "at": "2026-10-22T05:23:09+00:00",
@@ -702,6 +1080,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-10-21T15:30:59+00:00"
+},
+{
+"title": "South Africa's Andrews died of tear in artery around heart - autopsy",
+"url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-21T14:39:26+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-22T11:22:37+00:00"
 },
 {
 "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
@@ -1863,6 +2250,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-10-20T19:10:48+00:00"
+},
+{
+"title": "Bavuma epic drags SA back into Test - have they time to beat Australia?",
+"url": "https://www.bbc.co.uk/sport/cricket/articles/crx2d3y6gd80o?at_medium=RSS&at_campaign=rss",
+"at": "2026-10-20T16:27:39+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-10-22T11:22:37+00:00"
 },
 {
 "title": "Is Cyprus becoming Israel’s backyard?",
