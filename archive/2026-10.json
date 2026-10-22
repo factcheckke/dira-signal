@@ -2,6 +2,150 @@
 "month": "2026-10",
 "items": [
 {
+"title": "WHO warns of rising heat risks for mothers, children",
+"url": "https://www.kbc.co.ke/who-warns-of-rising-heat-risks-for-mothers-children/",
+"at": "2026-10-22T05:23:09+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Super coalition: Gachagua and Sifuna court Uhuru, Kalonzo in plot to deny Ruto 'tutam'",
+"url": "https://www.standardmedia.co.ke/article/2001560612/super-coalition-gachagua-and-sifuna-court-uhuru-kalonzo-in-plot-to-deny-ruto-tutam",
+"at": "2026-10-22T05:10:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
+"at": "2026-10-22T05:00:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+"url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+"at": "2026-10-22T04:45:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Police intensify road safety campaign in six counties",
+"url": "https://www.kbc.co.ke/police-intensify-road-safety-campaign-in-six-counties/",
+"at": "2026-10-22T04:43:40+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+"url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+"at": "2026-10-22T04:36:04+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Australian TV reporter rescues man from sinking car",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+"at": "2026-10-22T04:19:33+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+"url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+"at": "2026-10-22T03:19:38+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Can Trump deport Congresswoman Ilhan Omar?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+"at": "2026-10-22T02:34:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+"at": "2026-10-22T02:16:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Tigray resumes daily life amid fears of wider war",
+"url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+"at": "2026-10-22T02:08:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+"url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
+"at": "2026-10-22T02:02:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+"url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+"at": "2026-10-22T01:45:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "Colombian president purges National Museum of works promoting ‘communism’",
+"url": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
+"at": "2026-10-22T01:09:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race",
+"url": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
+"at": "2026-10-22T01:01:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
+"title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+"url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+"at": "2026-10-22T00:25:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-22T05:56:13+00:00"
+},
+{
 "title": "World leaders warn against security flaw found in PHP computer programming",
 "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
 "at": "2026-10-22T00:10:27+00:00",
