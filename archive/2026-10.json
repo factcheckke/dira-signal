@@ -2,6 +2,96 @@
 "month": "2026-10",
 "items": [
 {
+"title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+"url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+"at": "2026-10-23T22:33:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Why is Israel increasing its presence in the Balkans?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+"at": "2026-10-23T22:01:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+"at": "2026-10-23T21:27:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Gideon breaks silence on Ruto deal, cites betrayal",
+"url": "https://www.standardmedia.co.ke/article/2001560747/gideon-breaks-silence-on-ruto-deal-cites-betrayal",
+"at": "2026-10-23T21:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "‘Generation Right’: Israeli youth show strong support for the right",
+"url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+"at": "2026-10-23T20:52:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+"url": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+"at": "2026-10-23T20:44:14+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+"url": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+"at": "2026-10-23T20:44:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Why is the UK at the forefront of AI-driven job cuts?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+"at": "2026-10-23T20:43:47+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Why is Trump questioning Ilhan Omar’s name?",
+"url": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+"at": "2026-10-23T20:37:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Eastleigh building collapse: 7 people missing",
+"url": "https://www.kbc.co.ke/rescuers-have-established-contact-with-those-missing/",
+"at": "2026-10-23T20:25:37+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
 "title": "Kenya records second Ebola death",
 "url": "https://www.kbc.co.ke/kenya-records-second-ebola-death/",
 "at": "2026-10-23T20:03:38+00:00",
@@ -9,6 +99,33 @@
 "tier": 2,
 "geo": "kenya",
 "seen": "2026-10-23T20:04:08+00:00"
+},
+{
+"title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+"at": "2026-10-23T20:02:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Trump’s broken promises: economy, war and ICE",
+"url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+"at": "2026-10-23T20:01:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
+},
+{
+"title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+"url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+"at": "2026-10-23T19:55:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-10-23T23:05:57+00:00"
 },
 {
 "title": "Kenya records second Ebola death as MoH confirms nine cases",
@@ -90,6 +207,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-10-23T20:04:08+00:00"
+},
+{
+"title": "Inaugural Nairobi Trust summit adopts global action plan",
+"url": "https://www.kbc.co.ke/inaugural-nairobi-trust-summit-adopts-global-action-plan/",
+"at": "2026-10-23T17:56:20+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-10-23T23:05:57+00:00"
 },
 {
 "title": "Many feared trapped after multistorey building collapses in Kenya",
