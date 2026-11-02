@@ -2,6 +2,438 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Russian bombing of Ukrainian aid centre kills 24 people: Zelenskyy",
+"url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
+"at": "2026-11-02T18:23:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+"url": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
+"at": "2026-11-02T18:10:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "State to strengthen cybersecurity as threats surge, says Murkomen",
+"url": "https://www.kbc.co.ke/state-to-strengthen-cybersecurity-as-threats-surge-says-murkomen/",
+"at": "2026-11-02T17:54:59+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "16-year-old Shashwat Harish makes history at 5th NCBA Golf Park Open with 11-under-par victory",
+"url": "https://www.kbc.co.ke/16-year-old-shashwat-harish-makes-history-at-5th-ncba-golf-park-open-with-11-under-par-victory/",
+"at": "2026-11-02T17:47:23+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+"url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss",
+"at": "2026-11-02T17:42:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Drone attacks extend campaign targeting Sudan’s power system",
+"url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+"at": "2026-11-02T17:26:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Real Madrid matches still banned in China despite Mbappe apology",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
+"at": "2026-11-02T17:08:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Trump, Vance and candidates campaign on last day before US midterms",
+"url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
+"at": "2026-11-02T17:07:14+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+"at": "2026-11-02T16:56:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Six in seven journalist killings remain unresolved, UNESCO warns",
+"url": "https://capitalfm.africa/six-in-seven-journalist-killings-remain-unresolved-unesco-warns/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T16:42:16+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "CAF General Secretary Samson Adamu arrives in Kenya to assess AFCON 2027 preps",
+"url": "https://www.kbc.co.ke/caf-general-secretary-samson-adamu-arrives-in-kenya-to-assess-afcon-2027-preps/",
+"at": "2026-11-02T16:33:33+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Generic HIV prevention injection moves closer to 120 countries after FDA approval",
+"url": "https://capitalfm.africa/generic-hiv-prevention-injection-moves-closer-to-120-countries-after-fda-approval/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T16:17:26+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "At least seven migrants die on boat bound for Canary Islands amid storm",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss",
+"at": "2026-11-02T16:13:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Kipkosgei, Jelangat win inaugural Absa City Run in Eldoret",
+"url": "https://www.kbc.co.ke/kipkosgei-jelangat-win-inaugural-absa-city-run-in-eldoret/",
+"at": "2026-11-02T16:10:02+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+"url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+"at": "2026-11-02T16:03:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+"url": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+"at": "2026-11-02T16:03:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Kenyans stranded after Saudi Arabia blocks entry over Ebola concerns",
+"url": "https://www.standardmedia.co.ke/article/2001561385/kenyans-stranded-after-saudi-arabia-blocks-entry-over-ebola-concerns",
+"at": "2026-11-02T15:57:57+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Lobster industry caught in Maine’s political headwinds before US midterms",
+"url": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms?traffic_source=rss",
+"at": "2026-11-02T15:54:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Displaced in Hebron: Picking up pieces after Israeli siege",
+"url": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
+"at": "2026-11-02T15:43:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Somalia faces test of sustaining state-building gains as UN political mission closes",
+"url": "https://capitalfm.africa/somalia-faces-test-of-sustaining-state-building-gains-as-un-political-mission-closes/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:38:31+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "AU urges African governments to end impunity for crimes against journalists",
+"url": "https://capitalfm.africa/au-urges-african-governments-to-end-impunity-for-crimes-against-journalists/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:36:59+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Muteti summons IG Kanja after State fails to produce missing Tanzanian activist",
+"url": "https://capitalfm.africa/muteti-summons-ig-kanja-after-state-fails-to-produce-missing-tanzanian-activist/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:31:58+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Carrick not distracted by speculation over United future",
+"url": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
+"at": "2026-11-02T15:31:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Kenya opens second overseas investment promotion office in Saudi Arabia to attract Gulf capital",
+"url": "https://capitalfm.africa/kenya-opens-second-overseas-investment-promotion-office-in-saudi-arabia-to-attract-gulf-capital/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:24:13+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Jake Paul to fight MMA star Cedric Doumbe",
+"url": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
+"at": "2026-11-02T15:13:13+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+"url": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
+"at": "2026-11-02T15:09:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Cheruiyot under fire over ‘Tandika Katiba’ jibe at Sifuna",
+"url": "https://capitalfm.africa/cheruiyot-under-fire-over-tandika-katiba-jibe-at-sifuna/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:04:08+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "WHO convenes first Africa Health Data Forum in Nairobi to drive coordinated action",
+"url": "https://capitalfm.africa/who-convenes-first-africa-health-data-forum-in-nairobi-to-drive-coordinated-action/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T15:02:29+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+"url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+"at": "2026-11-02T15:00:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
+"url": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
+"at": "2026-11-02T14:57:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Court summons IG Kanja to explain disappearance of Tanzanian activist Twaha Mwaipaya",
+"url": "https://capitalfm.africa/court-summons-ig-kanja-to-explain-disappearance-of-tanzanian-activist-twaha-mwaipaya/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T14:49:39+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "UoN orders students back to lectures following end of nationwide university strike",
+"url": "https://capitalfm.africa/uon-orders-students-back-to-lectures-following-end-of-nationwide-university-strike/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-02T14:42:28+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "As Islamophobia ramps up in US midterms, Texas Muslims eye local stakes",
+"url": "https://www.aljazeera.com/news/2026/11/2/as-islamophobia-ramps-up-in-us-midterms-texas-muslims-eye-local-stakes?traffic_source=rss",
+"at": "2026-11-02T14:41:47+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "How US oil firms profit $130bn from Iran war as household bills surge",
+"url": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge?traffic_source=rss",
+"at": "2026-11-02T14:27:50+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "How would Tehran respond if the US and Israel bomb Iran again?",
+"url": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
+"at": "2026-11-02T14:17:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "US midterms 2026 live: Trump, Democrats make final push amid Michigan rift",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift?traffic_source=rss",
+"at": "2026-11-02T14:10:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "DPP secures Ksh21M fines, 13-year sentence against Waititu in money laundering case",
+"url": "https://www.kbc.co.ke/dpp-secures-ksh21m-fines-13-year-sentence-against-waititu-in-money-laundering-case/",
+"at": "2026-11-02T14:00:19+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Police arrive at German university pro-Palestine protest",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss",
+"at": "2026-11-02T13:37:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Iran says US talks could resume ‘within a short period’ if demands are met",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
+"at": "2026-11-02T13:04:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+"url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+"at": "2026-11-02T12:36:23+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Forestry State Department unveils Ksh26B landscape restoration project",
+"url": "https://www.kbc.co.ke/forestry-state-department-unveils-ksh26b-landscape-restoration-project/",
+"at": "2026-11-02T12:26:07+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Oman and China sign deals to boost trade and investment",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
+"at": "2026-11-02T12:18:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Uganda begins withdrawing troops from Somalia after 20 years",
+"url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-02T12:05:34+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Ex-PC sentenced to 14 years in Ksh1.35B land fraud case",
+"url": "https://www.kbc.co.ke/ex-pc-sentenced-to-14-years-in-ksh1-35b-land-fraud-case/",
+"at": "2026-11-02T10:57:59+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Five arrested after South African farmer shot and tortured",
+"url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-02T10:48:47+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "UoN resumes learning after staff unions call off strike",
+"url": "https://www.kbc.co.ke/uon-resumes-learning-after-staff-unions-call-off-strike/",
+"at": "2026-11-02T10:36:36+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "New agency told to enhance Kenya’s cybersecurity resilience",
+"url": "https://www.kbc.co.ke/new-agency-told-enhance-kenyas-cybersecurity-resilience/",
+"at": "2026-11-02T10:12:16+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
+"title": "Govt to expand Internship programme by 50,000 in January",
+"url": "https://www.kbc.co.ke/govt-to-expand-internship-programme-by-50000-in-january/",
+"at": "2026-11-02T09:55:38+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-02T18:41:15+00:00"
+},
+{
 "title": "Healthcare needs fewer firefighters and more strategists",
 "url": "https://www.kbc.co.ke/healthcare-needs-fewer-firefighters-and-more-strategists/",
 "at": "2026-11-02T08:02:30+00:00",
