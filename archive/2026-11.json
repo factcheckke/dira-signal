@@ -2,6 +2,447 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Jordanian officer killed in stabbing attack in Amman",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+"at": "2026-11-05T17:08:45+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Paraguay President Pena resigns in wake of bank collapse",
+"url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
+"at": "2026-11-05T17:08:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Bishara: US election deals a blow to warmongers",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+"at": "2026-11-05T16:48:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+"at": "2026-11-05T16:46:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "PPB warns public against misuse of pharmaceutical products",
+"url": "https://www.kbc.co.ke/ppb-warns-public-against-misuse-of-pharmaceutical-products/",
+"at": "2026-11-05T16:44:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
+"url": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
+"at": "2026-11-05T16:12:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
+"url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
+"at": "2026-11-05T16:12:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Photos: Thousands rally in France over rising costs and economic struggles",
+"url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+"at": "2026-11-05T16:07:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Malindi court halts IEBC CEO recruitment, suspends interviews for nine candidates",
+"url": "https://www.kbc.co.ke/malindi-court-halts-iebc-ceo-recruitment-suspends-interviews-for-nine-candidates/",
+"at": "2026-11-05T16:00:21+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+"url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+"at": "2026-11-05T16:00:00+00:00",
+"source": "US Federal Reserve",
+"tier": 1,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+"url": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+"at": "2026-11-05T15:52:15+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Mathare United signs a three-year deal with Blue Triangle Cement",
+"url": "https://www.kbc.co.ke/mathare-united-signs-a-three-year-deal-with-blue-triangle-cement/",
+"at": "2026-11-05T15:35:58+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Eastleigh building collapse death toll rises to eight as six more bodies recovered",
+"url": "https://capitalfm.africa/eastleigh-building-collapse-death-toll-rises-as-six-more-bodies-recovered/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T15:33:31+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "KMTC seeks HELB funding as 20,000 students forfeit training slots over fees",
+"url": "https://www.kbc.co.ke/kmtc-seeks-helb-funding-as-20000-students-forfeit-training-slots-over-fees/",
+"at": "2026-11-05T15:33:23+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Court sets 2027 hearing for fresh challenge to Ruto’s Cabinet after declining urgent listing",
+"url": "https://capitalfm.africa/court-to-hear-fresh-challenge-to-rutos-cabinet-next-year-after-declining-urgent-listing/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T15:21:48+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Why has Cristiano Ronaldo retired from international football?",
+"url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+"at": "2026-11-05T15:14:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Jerusalem Daily: Settler pogroms in Hebron",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+"at": "2026-11-05T15:10:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Ronaldo in records: International milestones from the football icon",
+"url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+"at": "2026-11-05T15:09:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Goon financiers should be cursed and sent to hell, Chief Justice Koome says",
+"url": "https://www.standardmedia.co.ke/article/2001561640/goon-financiers-should-be-cursed-and-sent-to-hell-chief-justice-koome-says",
+"at": "2026-11-05T15:08:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+"url": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
+"at": "2026-11-05T15:01:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Victims of rights abuses have until 14 November 2026 to file compensation claims",
+"url": "https://www.kbc.co.ke/victims-of-rights-abuses-have-until-14-november-2026-to-file-compensation-claims/",
+"at": "2026-11-05T15:01:04+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+"url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+"at": "2026-11-05T14:45:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Russell Brand found guilty of rape and sexual assault by UK court",
+"url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+"at": "2026-11-05T14:43:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Kalonzo’s Ukombozi tour attacked by goons in Migori",
+"url": "https://capitalfm.africa/kalonzos-ukombozi-tour-attacked-by-goons-in-migori/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T14:41:50+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Police officer missing after students attack KCSE examination monitoring team in Kisii",
+"url": "https://capitalfm.africa/police-officer-missing-after-students-attack-kcse-examination-monitoring-team-in-kisii/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T14:37:16+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+"url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+"at": "2026-11-05T14:30:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Bayern Munich vs Ajax match in Nairobi tickets to cost from Ksh 2,500 says CS Mvurya",
+"url": "https://www.kbc.co.ke/bayern-munich-vs-ajax-match-in-nairobi-tickets-to-cost-from-ksh-2500-says-cs-mvurya/",
+"at": "2026-11-05T14:30:30+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "UNESCO demands stronger school safeguards as bullying affects one in three learners",
+"url": "https://capitalfm.africa/unesco-demands-stronger-school-safeguards-as-bullying-affects-one-in-three-learners/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T14:29:20+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Could the US midterms further isolate Israel in Washington?",
+"url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+"at": "2026-11-05T14:19:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+"url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+"at": "2026-11-05T14:17:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Joint List says it will back Eisenkot to form Israel’s next government",
+"url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+"at": "2026-11-05T14:15:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Kenya Navy receives first equipment under Sh3bn EU defence support",
+"url": "https://capitalfm.africa/kenya-navy-receives-first-equipment-under-sh3bn-eu-defence-support/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T14:09:26+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Revenue collection hits Ksh 1T in four months to October",
+"url": "https://www.kbc.co.ke/revenue-collection-hits-ksh-1t-in-four-months-to-october/",
+"at": "2026-11-05T14:04:49+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "What can Democrats do in Congress under President Trump?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss",
+"at": "2026-11-05T13:43:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+"at": "2026-11-05T13:41:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Kenya faces 85pc malaria funding gap despite drop in infections",
+"url": "https://capitalfm.africa/kenya-faces-85pc-malaria-funding-gap-despite-drop-in-infections/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T13:40:50+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Kalonzo names Matiang’i, Orengo to lead Ukombozi Alliance Council",
+"url": "https://capitalfm.africa/kalonzo-names-matiangi-orengo-to-lead-ukombozi-alliance-council/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T13:30:44+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Governors demand revocation of 2026 Tourism Regulations over county licensing powers",
+"url": "https://capitalfm.africa/governors-demand-revocation-of-2026-tourism-regulations-over-county-licensing-powers/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T13:30:01+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+"at": "2026-11-05T13:28:12+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Padel’s Olympic ambition",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/padels-olympic-ambition?traffic_source=rss",
+"at": "2026-11-05T13:25:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Ruto urges universities to align courses with industry demands",
+"url": "https://www.kbc.co.ke/ruto-urges-universities-to-align-courses-with-industry-demands/",
+"at": "2026-11-05T13:18:27+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "WHO adds two experimental vaccines to Ebola trial targeting deadly Bundibugyo strain",
+"url": "https://capitalfm.africa/who-adds-two-experimental-vaccines-to-ebola-trial-targeting-deadly-bundibugyo-strain/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-05T13:18:02+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Four people, including a child, killed in Israeli attacks on Gaza",
+"url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+"at": "2026-11-05T13:04:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
+"at": "2026-11-05T12:56:10+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Progress against malaria: Kenya reports 34% decline in cases",
+"url": "https://www.kbc.co.ke/progress-against-malaria-kenya-reports-34-decline-in-cases/",
+"at": "2026-11-05T12:33:17+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Cristiano Ronaldo announces international retirement",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
+"at": "2026-11-05T12:32:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Four teams arrive in Nairobi for Africa Women’s Sevens set for this weekend",
+"url": "https://www.kbc.co.ke/four-teams-arrive-in-nairobi-for-africa-womens-sevens-set-for-this-weekend/",
+"at": "2026-11-05T12:28:21+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening",
+"url": "https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-05T11:23:22+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
+"title": "Owono left out of Eq Guinea squad after death of De Miguel",
+"url": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-05T11:18:39+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-05T17:32:40+00:00"
+},
+{
 "title": "Ruto Awards International Leadership University Charter, Calls for Global Standards in Higher Education",
 "url": "https://capitalfm.africa/ruto-awards-international-leadership-university-charter-calls-for-global-standards-in-higher-education/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
 "at": "2026-11-05T09:18:59+00:00",
