@@ -2,6 +2,141 @@
 "month": "2026-11",
 "items": [
 {
+"title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
+"at": "2026-11-09T04:35:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Asian stock markets climb after earlier tech rout",
+"url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+"at": "2026-11-09T04:03:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+"url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+"at": "2026-11-09T04:02:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Mexico arrests alleged major leader of Jalisco cartel",
+"url": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
+"at": "2026-11-09T03:42:57+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Trump defends Nvidia CEO amid Chinese spying allegations",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+"at": "2026-11-09T03:26:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Of a judiciary with teeth but refuses to bite: Pressure mounts on CJ Koome over eroding public confidence",
+"url": "https://www.standardmedia.co.ke/article/2001561838/of-a-judiciary-with-teeth-but-refuses-to-bite-pressure-mounts-on-cj-koome-over-eroding-public-confidence",
+"at": "2026-11-09T03:15:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "South Africa’s ANC suffers worst-ever local elections result",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+"at": "2026-11-09T03:09:51+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Moldova launches new power line to Romania to cut reliance on Russia",
+"url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+"at": "2026-11-09T02:35:15+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+"at": "2026-11-09T02:23:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+"url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+"at": "2026-11-09T01:19:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "India’s night lights up for Diwali",
+"url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+"at": "2026-11-09T00:24:04+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+"url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+"at": "2026-11-09T00:07:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+"at": "2026-11-09T00:00:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+"at": "2026-11-08T23:58:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
+"title": "Mexican mayor found alive after hours-long abduction",
+"url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+"at": "2026-11-08T23:55:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-09T04:51:23+00:00"
+},
+{
 "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
 "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
 "at": "2026-11-08T23:39:47+00:00",
