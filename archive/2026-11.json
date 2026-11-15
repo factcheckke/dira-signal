@@ -2,6 +2,105 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+"url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+"at": "2026-11-15T01:54:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Netanyahu sends plea to Eisenkot for unity government",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+"at": "2026-11-15T01:33:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Thailand’s elderly kept in cages",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+"at": "2026-11-15T01:32:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "SpaceX’s Starship nails a smooth return with historic catch",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+"at": "2026-11-15T01:22:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Israeli air strike kills senior Hamas commander in Gaza",
+"url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+"at": "2026-11-15T01:00:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Hundreds of men march in Switzerland to protest violence against women",
+"url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+"at": "2026-11-15T00:27:14+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+"url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+"at": "2026-11-15T00:14:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+"url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-15T00:06:55+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+"at": "2026-11-15T00:00:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Portugal immortalises Ronaldo with a new number 7",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
+"at": "2026-11-14T23:55:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+"at": "2026-11-14T23:34:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
 "title": "Netanyahu says only a unity government can guarantee Israel’s security",
 "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
 "at": "2026-11-14T23:01:30+00:00",
@@ -173,6 +272,15 @@
 "seen": "2026-11-14T19:25:17+00:00"
 },
 {
+"title": "Judiciary calls for community support to ensure justice for children",
+"url": "https://www.kenyanews.go.ke/judiciary-calls-for-community-support-to-ensure-justice-for-children/",
+"at": "2026-11-14T17:05:47+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
 "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
 "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
 "at": "2026-11-14T16:53:39+00:00",
@@ -180,6 +288,15 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-11-14T19:25:17+00:00"
+},
+{
+"title": "Stalled Mau Mau road Lot 2 project contractor put on notice",
+"url": "https://www.kenyanews.go.ke/stalled-mau-mau-road-lot-2-project-contractor-put-on-notice-2/",
+"at": "2026-11-14T16:47:15+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-15T02:47:43+00:00"
 },
 {
 "title": "Portugal vs Denmark LIVE: UEFA Nations League",
@@ -234,6 +351,24 @@
 "tier": 2,
 "geo": "world",
 "seen": "2026-11-14T19:25:17+00:00"
+},
+{
+"title": "Maseno varsity establishes centre for applied and Artificial Intelligence",
+"url": "https://www.kenyanews.go.ke/maseno-varsity-establishes-centre-for-applied-and-artificial-intelligence/",
+"at": "2026-11-14T15:53:55+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-15T02:47:43+00:00"
+},
+{
+"title": "Maseno University strategising for 2029 intake",
+"url": "https://www.kenyanews.go.ke/maseno-university-strategising-for-2029-intake/",
+"at": "2026-11-14T15:52:40+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-15T02:47:43+00:00"
 },
 {
 "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
