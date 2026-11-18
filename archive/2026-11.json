@@ -2,6 +2,456 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Duale reaffirms commitment to health reforms, accountability",
+"url": "https://www.kbc.co.ke/duale-reaffirms-commitment-to-health-reforms-accountability/",
+"at": "2026-11-18T18:02:43+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+"at": "2026-11-18T17:50:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+"url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+"at": "2026-11-18T17:45:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Former KDC boss Dr. Mwaura joins DCP, to contest for Roysambu MP",
+"url": "https://www.kbc.co.ke/former-kdc-boss-dr-mwaura-joins-dcp-to-contest-for-roysambu-mp/",
+"at": "2026-11-18T17:24:56+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto highlights four-year gains in State of the Nation Address",
+"url": "https://www.kbc.co.ke/ruto-highlights-four-year-gains-in-state-of-the-nation-address/",
+"at": "2026-11-18T17:17:17+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto: Kenya saves Sh1.5bn as national exam papers are printed locally",
+"url": "https://capitalfm.africa/ruto-kenya-saves-sh1-5bn-as-national-exam-papers-are-printed-locally/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T17:00:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Architects urge President Ruto to declare building collapse crisis a national disaster",
+"url": "https://www.kenyanews.go.ke/architects-urge-president-ruto-to-declare-building-collapse-crisis-a-national-disaster/",
+"at": "2026-11-18T16:47:29+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+"url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+"at": "2026-11-18T16:47:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "World Bank official says Lebanon reconstruction making slow progress",
+"url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+"at": "2026-11-18T16:44:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+"at": "2026-11-18T16:40:03+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+"at": "2026-11-18T16:28:54+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Murang’a records increased diabetes, medics call for early screening",
+"url": "https://www.kenyanews.go.ke/muranga-records-increased-diabetes-medics-call-for-early-screening/",
+"at": "2026-11-18T16:17:50+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+"at": "2026-11-18T16:16:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Nanyuki residents get jikos in bid to conserve Mt Kenya forest",
+"url": "https://www.kenyanews.go.ke/nanyuki-residents-get-jikos-in-bid-to-conserve-mt-kenya-forest/",
+"at": "2026-11-18T16:12:45+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Five EU nations to deport migrants to Rwanda",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
+"at": "2026-11-18T16:05:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Lessons from Mauritius: How Kenya can strengthen its instant payment ecosystem",
+"url": "https://www.kbc.co.ke/lessons-from-mauritius-how-kenya-can-strengthen-its-instant-payment-ecosystem/",
+"at": "2026-11-18T16:00:01+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+"url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+"at": "2026-11-18T15:57:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Pax Silica is the new face of US imperialism in the Philippines",
+"url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+"at": "2026-11-18T15:57:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Never played, already gone. JJ Gabriel leaves Man United",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
+"at": "2026-11-18T15:50:43+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "‘Usawa ni Sawa’ to end development divide, says Ruto",
+"url": "https://www.kbc.co.ke/usawa-ni-sawa-to-end-development-divide-says-ruto/",
+"at": "2026-11-18T15:40:06+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Hakeem Jeffries formally nominated as first Black US House speaker",
+"url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+"at": "2026-11-18T15:37:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Russian attacks on Ukraine kill at least five people",
+"url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+"at": "2026-11-18T15:32:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto bets on agriculture interventions to address high cost of living",
+"url": "https://www.kbc.co.ke/ruto-bets-on-agriculture-interventions-to-address-high-cost-of-living/",
+"at": "2026-11-18T15:30:45+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto defends 750km Northern Kenya road project amid past ridicule",
+"url": "https://capitalfm.africa/ruto-defends-750km-northern-kenya-road-project-amid-past-ridicule/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T15:30:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Vision Impact Project expands services to include ear and hearing care",
+"url": "https://www.kenyanews.go.ke/vision-impact-project-expands-services-to-include-ear-and-hearing-care/",
+"at": "2026-11-18T15:29:13+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto lists measures to lower cost of living, put more money in Kenyans' pockets",
+"url": "https://www.standardmedia.co.ke/article/2001562553/ruto-lists-measures-to-lower-cost-of-living-put-more-money-in-kenyans-pockets",
+"at": "2026-11-18T15:25:59+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+"url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+"at": "2026-11-18T15:00:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "707,000 Kenyans have secured jobs abroad-Ruto",
+"url": "https://www.kbc.co.ke/600000-kenyans-to-qualify-for-govt-procurement-contracts/",
+"at": "2026-11-18T14:57:41+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Israeli forces demolish homes in southern Lebanon",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+"at": "2026-11-18T14:52:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+"url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+"at": "2026-11-18T14:47:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+"url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+"at": "2026-11-18T14:39:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto takes veiled swipe at Gachagua over Mt Kenya voting bloc politics",
+"url": "https://capitalfm.africa/ruto-takes-veiled-swipe-at-gachagua-over-mt-kenya-voting-bloc-politics/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T14:36:20+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+"url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+"at": "2026-11-18T14:36:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
+"url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
+"at": "2026-11-18T14:35:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Sifuna dismisses Ruto’s fourth State of the Nation Address as ‘State of Imagination’",
+"url": "https://capitalfm.africa/sifuna-dismisses-rutos-fourth-state-of-the-nation-address-as-state-of-imagination/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T14:31:55+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Can the US and Iran sustain a ‘frozen war’?",
+"url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+"at": "2026-11-18T14:13:51+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "What’s holding South Africa’s economy back?",
+"url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
+"at": "2026-11-18T14:12:57+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+"at": "2026-11-18T14:11:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto promises public order reforms, accountability for police abuses",
+"url": "https://capitalfm.africa/ruto-promises-public-order-reforms-accountability-for-police-abuses/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T14:10:35+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Kenya saves Ksh.1.5B as national examination papers printed locally",
+"url": "https://www.kbc.co.ke/kenya-prints-national-exams-locally-for-first-time-in-65-years/",
+"at": "2026-11-18T14:10:29+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+"url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+"at": "2026-11-18T14:08:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto says SHA protecting families from financial burden of illness",
+"url": "https://www.kbc.co.ke/ruto-says-sha-protecting-families-from-financial-burden-of-illness/",
+"at": "2026-11-18T14:03:54+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Ruto tells Parliament Nairobi-Mombasa Highway dualling plan at advanced stage",
+"url": "https://capitalfm.africa/ruto-tells-parliament-nairobi-mombasa-highway-dualling-plan-at-advanced-stage/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T13:55:37+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Usawa ni Sawa: Ruto revisits Isiolo–Mandera road humour as proof of equity",
+"url": "https://www.kbc.co.ke/this-is-the-inequality-we-are-correcting/",
+"at": "2026-11-18T13:52:37+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "How the US House of Representatives chooses its leaders: A visual guide",
+"url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+"at": "2026-11-18T13:24:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "GTA 6: Everything you need to know about the highly anticipated game",
+"url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+"at": "2026-11-18T13:02:33+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Regina Re, brother freed on Sh200,000 bail over mother’s murder",
+"url": "https://capitalfm.africa/regina-re-brother-freed-on-sh200000-bail-over-mothers-murder/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T13:01:43+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Nairobi health facilities triple revenue to Sh2.6bn as county expands access",
+"url": "https://capitalfm.africa/nairobi-health-facilities-triple-revenue-to-sh2-6bn-city-hall/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T11:07:50+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Archbishop Muheria threatens to sack church officials over politicians",
+"url": "https://capitalfm.africa/archbishop-muheria-threatens-to-sack-church-officials-over-politicians/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T09:56:55+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
+"title": "Regina Re’s daughter to Follow Grandmother’s Burial Through Recording After Court Ruling",
+"url": "https://capitalfm.africa/regina-res-daughter-to-follow-grandmothers-burial-through-recording-after-court-ruling/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-18T09:12:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-18T18:11:02+00:00"
+},
+{
 "title": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
 "url": "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
 "at": "2026-11-18T08:57:14+00:00",
