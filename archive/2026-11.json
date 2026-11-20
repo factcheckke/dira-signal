@@ -2,6 +2,384 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Revealed: Judges, Magistrate individual performance scorecard exposed",
+"url": "https://www.standardmedia.co.ke/article/2001562710/revealed-judges-magistrate-individual-performance-scorecard-exposed",
+"at": "2026-11-20T21:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Sudan’s war leaves disabled children missing out on education",
+"url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+"at": "2026-11-20T20:45:08+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+"url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+"at": "2026-11-20T20:30:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+"url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+"at": "2026-11-20T20:14:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+"url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
+"at": "2026-11-20T20:03:11+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+"url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+"at": "2026-11-20T19:57:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+"url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+"at": "2026-11-20T19:40:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+"url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-20T19:37:26+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Nepal cricket fans celebrate their team’s global rise",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+"at": "2026-11-20T19:24:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+"url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+"at": "2026-11-20T19:15:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "What are the implications of the ICJ Rohingya genocide ruling?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+"at": "2026-11-20T19:12:14+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Former US national security adviser confronted by students on Gaza",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+"at": "2026-11-20T18:51:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Swimming lessons offer Gaza’s children a moment of relief",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+"at": "2026-11-20T18:43:37+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+"url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+"at": "2026-11-20T18:37:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+"url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+"at": "2026-11-20T17:54:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+"url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+"at": "2026-11-20T17:44:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Protests held across Europe over wages, services, high living costs",
+"url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+"at": "2026-11-20T17:32:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Qatar’s emir calls for diplomacy to end regional conflicts",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+"at": "2026-11-20T17:18:58+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Top US Democrat warns Trump admin against destroying records",
+"url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+"at": "2026-11-20T17:05:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+"url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+"at": "2026-11-20T17:05:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+"url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+"at": "2026-11-20T16:40:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+"url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-20T16:28:47+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "UAE Foundation Targets Preventable Blindness Through Mobile Clinics in Africa",
+"url": "https://capitalfm.africa/uae-foundation-targets-preventable-blindness-through-mobile-clinics-in-africa/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-20T16:27:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "CS Kabogo named Global Icon in AI and Digital Economy Leadership",
+"url": "https://www.kenyanews.go.ke/cs-kabogo-named-global-icon-in-ai-and-digital-economy-leadership/",
+"at": "2026-11-20T16:22:06+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+"url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+"at": "2026-11-20T16:13:57+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "NCTC trains government officials on crisis communication",
+"url": "https://www.kbc.co.ke/nctc-trains-government-officials-on-crisis-communication/",
+"at": "2026-11-20T16:10:54+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "US Senate passes bill to speed up energy project approvals",
+"url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+"at": "2026-11-20T16:10:12+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
+"url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+"at": "2026-11-20T16:05:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Ruto defends IEBC, challenges rivals to present alternative policies",
+"url": "https://www.standardmedia.co.ke/article/2001562717/ruto-defends-iebc-challenges-rivals-to-present-alternative-policies",
+"at": "2026-11-20T16:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Kenya exploring AI application to improve healthcare delivery",
+"url": "https://www.kenyanews.go.ke/kenya-exploring-ai-application-to-improve-healthcare-delivery/",
+"at": "2026-11-20T15:53:43+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Women farmers productive despite limited resources, study reveals",
+"url": "https://www.kenyanews.go.ke/women-farmers-productive-despite-limited-resources-study-reveals/",
+"at": "2026-11-20T15:51:51+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "One third of attacks on children worldwide recorded in Palestine",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+"at": "2026-11-20T15:50:28+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Children Take Their Place In Kenya’s 2027 Election As National Campaign Launches",
+"url": "https://capitalfm.africa/children-take-their-place-in-kenyas-2027-election-as-national-campaign-launches/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-20T15:49:18+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Kansas hosts become guests as Algeria repays World Cup welcome",
+"url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+"at": "2026-11-20T15:49:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Government streamlines cancer treatment with single SHA approval",
+"url": "https://www.kenyanews.go.ke/government-streamlines-cancer-treatment-with-single-sha-approval/",
+"at": "2026-11-20T15:47:22+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Jerusalem Daily: Palestinians return home to ruins",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+"at": "2026-11-20T15:42:04+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Foreign affairs moves towards modernisation of diplomatic infrastructure through PPP framework",
+"url": "https://www.kbc.co.ke/foreign-affairs-moves-towards-modernisation-of-diplomatic-infrastructure-through-ppp-framework/",
+"at": "2026-11-20T15:18:13+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+"url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+"at": "2026-11-20T15:00:00+00:00",
+"source": "US Federal Reserve",
+"tier": 1,
+"geo": "world",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "TikTok, ICC Kenya to equip creators with digital commerce skills",
+"url": "https://www.kbc.co.ke/tiktok-icc-kenya-to-equip-creators-with-digital-commerce-skills/",
+"at": "2026-11-20T14:53:32+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "UK Embassy in Nairobi celebrates King’s birthday by honouring Kenyan sports personalities",
+"url": "https://www.kbc.co.ke/uk-embassy-in-nairobi-celebrates-kings-birthday-by-honouring-kenyan-sports-personalities/",
+"at": "2026-11-20T14:34:38+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Kenya begins Ksh 774B commercial oil production in South Lokichar",
+"url": "https://www.kbc.co.ke/kenya-begins-ksh-774b-commercial-oil-production-in-south-lokichar/",
+"at": "2026-11-20T13:52:46+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Judiciary still grapples with case backlog despite improved clearance rate",
+"url": "https://www.kbc.co.ke/judiciary-still-grapples-with-case-backlog-despite-improved-clearance-rate/",
+"at": "2026-11-20T13:19:55+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-20T21:05:04+00:00"
+},
+{
 "title": "Uganda restricts cross-border movement, public gatherings amid Ebola threat",
 "url": "https://capitalfm.africa/uganda-restricts-cross-border-movement-public-gatherings-amid-ebola-threat/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
 "at": "2026-11-20T13:08:00+00:00",
