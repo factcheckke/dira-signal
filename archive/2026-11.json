@@ -2,6 +2,393 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Kindiki urges broad-based leaders to close ranks, avoid political divisions",
+"url": "https://www.kbc.co.ke/kindiki-urges-broad-based-leaders-to-close-ranks-avoid-political-divisions/",
+"at": "2026-11-21T16:26:44+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "CS Murkomen warns against attacks on IEBC",
+"url": "https://www.kbc.co.ke/cs-murkomen-warns-against-attacks-on-iebc/",
+"at": "2026-11-21T16:15:54+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "India’s opposition stages protests against Meta over account removals",
+"url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+"at": "2026-11-21T16:14:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+"url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+"at": "2026-11-21T16:03:16+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Ruto woos Western Kenya with sugar bonus, teacher jobs and title deeds",
+"url": "https://www.standardmedia.co.ke/article/2001562774/ruto-woos-western-kenya-with-sugar-bonus-teacher-jobs-and-title-deeds",
+"at": "2026-11-21T16:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "US midterms 2026: What happens before the new Congress takes office?",
+"url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+"at": "2026-11-21T15:49:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "French presidential candidate blames media for racist attack",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+"at": "2026-11-21T15:46:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+"url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+"at": "2026-11-21T15:20:43+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Mboko urges security cadets to uphold discipline as SEZ job opportunities emerge",
+"url": "https://www.kenyanews.go.ke/mboko-urges-security-cadets-to-uphold-discipline-as-sez-job-opportunities-emerge/",
+"at": "2026-11-21T15:14:08+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Chesang calls for probe into ethnic tensions in Trans Nzoia, accuses Natembeya of incitement",
+"url": "https://capitalfm.africa/chesang-calls-for-probe-into-ethnic-tensions-in-trans-nzoia-accuses-natembeya-of-incitement/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T15:13:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Siaya digital hub to spur innovation, entrepreneurship and economic growth",
+"url": "https://www.kenyanews.go.ke/siaya-digital-hub-to-spur-innovation-entrepreneurship-and-economic-growth/",
+"at": "2026-11-21T15:03:44+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+"url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+"at": "2026-11-21T15:01:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Murang’a Coffee farmers receive high-yielding seedlings in production boost drive",
+"url": "https://www.kenyanews.go.ke/muranga-coffee-farmers-receive-high-yielding-seedlings-in-production-boost-drive/",
+"at": "2026-11-21T14:59:14+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "President issues 1,800 title deeds in Mt.Elgon",
+"url": "https://www.kenyanews.go.ke/president-issues-1800-title-deeds-in-mt-elgon/",
+"at": "2026-11-21T14:56:47+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+"url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+"at": "2026-11-21T14:35:52+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Newcastle United vs Arsenal LIVE: Premier League",
+"url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+"at": "2026-11-21T14:30:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+"url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+"at": "2026-11-21T14:15:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+"at": "2026-11-21T14:06:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+"url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+"at": "2026-11-21T13:08:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+"url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+"at": "2026-11-21T12:49:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Russian crew evacuating ship hit by drones off coast of Finland",
+"url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+"at": "2026-11-21T12:45:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+"url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+"at": "2026-11-21T12:30:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Israeli strike kills three in vehicle distributing food aid in Gaza",
+"url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+"at": "2026-11-21T12:29:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Ruto announces NYOTA grants for 200,000 more youths",
+"url": "https://www.kbc.co.ke/ruto-announces-nyota-grants-for-200000-more-youths/",
+"at": "2026-11-21T12:26:17+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+"at": "2026-11-21T12:22:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Mexico captures FBI-wanted cartel boss in military raid",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+"at": "2026-11-21T11:53:56+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Why is GTA VI so expensive to play?",
+"url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
+"at": "2026-11-21T11:39:03+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Kenya targets paediatric HIV treatment gaps in World AIDS Day campaign",
+"url": "https://capitalfm.africa/kenya-targets-paediatric-hiv-treatment-gaps-in-world-aids-day-campaign/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T11:38:22+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+"url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
+"at": "2026-11-21T11:35:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Government to open sections of Rironi-Mau Summit highway ahead of Christmas",
+"url": "https://capitalfm.africa/government-to-open-sections-of-rironi-mau-summit-highway-ahead-of-christmas/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T11:29:32+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Quality indigenous tree seed key to climate-resilient restoration in Eastern Africa",
+"url": "https://capitalfm.africa/quality-indigenous-tree-seed-key-to-climate-resilient-restoration-in-eastern-africa/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T11:10:26+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Migrants caravan in Mexico walks towards US border",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+"at": "2026-11-21T11:04:10+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+"url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+"at": "2026-11-21T11:02:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Deadly fire engulfs power station in southern Iraq",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+"at": "2026-11-21T11:02:29+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "FBI reportedly investigating apparent hack of its criminal database",
+"url": "https://capitalfm.africa/fbi-reportedly-investigating-apparent-hack-of-its-criminal-database/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T11:00:07+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
+"url": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
+"at": "2026-11-21T10:54:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Uhuru Mourns Former South African Deputy President Phumzile Mlambo-Ngcuka",
+"url": "https://capitalfm.africa/uhuru-mourns-former-south-african-deputy-president-phumzile-mlambo-ngcuka/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T10:50:40+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Ruto Orders Absorption of BOM-Hired Teachers into Government Payroll",
+"url": "https://capitalfm.africa/ruto-orders-absorption-of-bom-hired-teachers-into-government-payroll/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T10:43:08+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+"url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+"at": "2026-11-21T10:38:13+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Calvo Mistari, Naiboi team up with Zerro Sufuri on new Afro-Pop single “Eye to Eye”",
+"url": "https://www.kbc.co.ke/calvo-mistari-naiboi-team-up-with-zerro-sufuri-on-new-afro-pop-single-eye-to-eye/",
+"at": "2026-11-21T10:37:02+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+"url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+"at": "2026-11-21T10:27:23+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Gachagua admits joining Ruto’s UDA was a costly mistake",
+"url": "https://capitalfm.africa/gachagua-admits-joining-rutos-uda-was-a-costly-mistake/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T10:19:26+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
+"title": "Linda Mwananchi office vandalised ahead of Ruto’s Matungu visit",
+"url": "https://capitalfm.africa/linda-mwananchi-office-vandalised-ahead-of-rutos-matungu-visit/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-21T09:51:55+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-21T16:59:02+00:00"
+},
+{
 "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
 "url": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
 "at": "2026-11-21T09:38:29+00:00",
