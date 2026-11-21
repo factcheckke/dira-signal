@@ -2,6 +2,123 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+"url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+"at": "2026-11-21T01:36:10+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+"url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+"at": "2026-11-21T01:12:48+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+"url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+"at": "2026-11-21T00:55:01+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "ANC fights to keep control of South Africa's key cities after election setback",
+"url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-21T00:34:51+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+"at": "2026-11-21T00:00:06+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+"url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+"at": "2026-11-20T23:36:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+"at": "2026-11-20T23:20:50+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+"url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+"at": "2026-11-20T23:06:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+"url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+"at": "2026-11-20T22:15:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Iraq PM targets militia stronghold in bid to assert state control",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+"at": "2026-11-20T21:28:25+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Federal Reserve announces College Fed Challenge winners",
+"url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+"at": "2026-11-20T21:15:00+00:00",
+"source": "US Federal Reserve",
+"tier": 1,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Trump threatens tax on US tech firms building AI data centres abroad",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+"at": "2026-11-20T21:10:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+"url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+"at": "2026-11-20T21:05:07+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
 "title": "Revealed: Judges, Magistrate individual performance scorecard exposed",
 "url": "https://www.standardmedia.co.ke/article/2001562710/revealed-judges-magistrate-individual-performance-scorecard-exposed",
 "at": "2026-11-20T21:00:00+00:00",
@@ -9,6 +126,33 @@
 "tier": 2,
 "geo": "kenya",
 "seen": "2026-11-20T21:05:04+00:00"
+},
+{
+"title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+"url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+"at": "2026-11-20T20:59:04+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Can the UK and EU turn the page on Brexit?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+"at": "2026-11-20T20:51:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
+},
+{
+"title": "Gaza’s displaced children celebrate World Children’s Day",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+"at": "2026-11-20T20:45:09+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-21T02:09:24+00:00"
 },
 {
 "title": "Sudan’s war leaves disabled children missing out on education",
