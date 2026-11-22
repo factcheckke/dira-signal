@@ -2,6 +2,60 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Moviegoers head for the exits as quake strikes Peru",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+"at": "2026-11-22T01:07:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
+"title": "Clashes erupt across France in another night of protest",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+"at": "2026-11-22T00:37:32+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
+"title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+"url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-22T00:10:37+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
+"title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+"at": "2026-11-21T23:59:03+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
+"title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+"url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+"at": "2026-11-21T23:44:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
+"title": "Iran faces a ‘silent economic war’, says Iranian president",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+"at": "2026-11-21T23:18:14+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-22T02:12:04+00:00"
+},
+{
 "title": "Bahrain says Iranian attack hits industrial facility",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
 "at": "2026-11-21T22:02:03+00:00",
