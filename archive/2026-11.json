@@ -2,6 +2,240 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Asia’s stock markets dive as doubts swirl over AI boom",
+"url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+"at": "2026-11-25T03:31:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "From suspicion to bitter exchanges and betrayal: ODM's harsh reality check",
+"url": "https://www.standardmedia.co.ke/article/2001562962/from-suspicion-to-bitter-exchanges-and-betrayal-odm-s-harsh-reality-check",
+"at": "2026-11-25T03:20:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Pakistani astronaut launches into space aboard Chinese rocket",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+"at": "2026-11-25T02:44:45+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+"url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+"at": "2026-11-25T02:40:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "WHO chief urges end to US fuel blockade on Cuba",
+"url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+"at": "2026-11-25T02:23:19+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Treasury, UNICEF to Push for Protected Children’s Budget Amid Debt Pressure",
+"url": "https://capitalfm.africa/treasury-unicef-to-push-for-protected-childrens-budget-amid-debt-pressure/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-25T01:55:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Senegal fans celebrate AFCON legal victory over Morocco",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+"at": "2026-11-25T01:39:53+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+"url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+"at": "2026-11-25T01:30:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+"at": "2026-11-25T01:21:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Poll finds US voters want government to end Iran war regardless of terms",
+"url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+"at": "2026-11-25T01:14:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+"url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+"at": "2026-11-25T01:00:36+00:00",
+"source": "BBC Africa",
+"tier": 2,
+"geo": "africa",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Gunmen hold dozens hostage in Colombia supermarket",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+"at": "2026-11-25T00:49:35+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Alaska ends deal to give voter records to US Justice Department",
+"url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+"at": "2026-11-25T00:28:28+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+"url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+"at": "2026-11-25T00:00:00+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+"url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+"at": "2026-11-24T23:39:13+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+"url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+"at": "2026-11-24T23:29:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+"url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+"at": "2026-11-24T22:50:16+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+"url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+"at": "2026-11-24T22:37:20+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+"url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+"at": "2026-11-24T22:01:26+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Colombian president blames ex-FARC rebels for car bomb blast",
+"url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+"at": "2026-11-24T21:45:42+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+"url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+"at": "2026-11-24T21:43:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Russian jets spark air raid alert in South Korea",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+"at": "2026-11-24T21:14:57+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+"url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+"at": "2026-11-24T21:04:46+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+"at": "2026-11-24T20:58:41+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+"url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+"at": "2026-11-24T20:35:03+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
+"title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+"url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+"at": "2026-11-24T20:28:40+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-25T03:57:43+00:00"
+},
+{
 "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
 "at": "2026-11-24T20:18:19+00:00",
