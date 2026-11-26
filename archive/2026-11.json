@@ -2,6 +2,438 @@
 "month": "2026-11",
 "items": [
 {
+"title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+"url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+"at": "2026-11-26T23:07:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+"url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+"at": "2026-11-26T22:51:55+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+"url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+"at": "2026-11-26T22:06:54+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+"url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+"at": "2026-11-26T21:08:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Bangladesh garment workers clash with police over low wages",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+"at": "2026-11-26T21:04:39+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Kenya unveils new renewable energy projects as global delegates convene in Naivasha",
+"url": "https://www.kbc.co.ke/kenya-unveils-new-renewable-energy-projects-as-global-delegates-convene-in-naivasha/",
+"at": "2026-11-26T21:00:43+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Justice at last for family of missing Nakuru fisherman as two officers found guilty",
+"url": "https://www.standardmedia.co.ke/article/2001563130/justice-at-last-for-family-of-missing-nakuru-fisherman-as-two-officers-found-guilty",
+"at": "2026-11-26T21:00:00+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "PR professionals call for regulation, ethical standards as misinformation erodes public trust",
+"url": "https://www.kbc.co.ke/pr-professionals-call-for-regulation-ethical-standards-as-misinformation-erodes-public-trust/",
+"at": "2026-11-26T20:56:07+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+"url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+"at": "2026-11-26T20:34:34+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
+"at": "2026-11-26T20:32:43+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Mexico seeks US talks about suspected SpaceX debris",
+"url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+"at": "2026-11-26T20:31:50+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Musk pledges two SpaceX shares for every US child",
+"url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
+"at": "2026-11-26T20:19:22+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Kenya seeks private investment to power Africa’s clean energy transition",
+"url": "https://www.kbc.co.ke/kenya-seeks-private-investment-to-power-africas-clean-energy-transition/",
+"at": "2026-11-26T20:08:12+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Court clears path for KMPDC to implement oral health practice guidelines",
+"url": "https://www.kbc.co.ke/court-clears-path-for-kmpdc-to-implement-oral-health-practice-guidelines/",
+"at": "2026-11-26T20:00:24+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Peru burns more than 10 tonnes of seized drugs",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+"at": "2026-11-26T19:44:05+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+"url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+"at": "2026-11-26T19:19:12+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+"url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+"at": "2026-11-26T19:09:39+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
+"url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+"at": "2026-11-26T19:07:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "What will Trump’s latest tariffs mean for the world?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+"at": "2026-11-26T18:53:15+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+"at": "2026-11-26T18:30:36+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "NCIC Investigates Ndegwa Njiru Over Claims Against Ruto",
+"url": "https://capitalfm.africa/ncic-investigates-ndegwa-njiru-over-claims-against-ruto/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T18:27:49+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+"url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+"at": "2026-11-26T18:27:27+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Guinea-Bissau military leaders delay presidential election until 2028",
+"url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+"at": "2026-11-26T18:07:18+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
+"url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+"at": "2026-11-26T17:53:44+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Netanyahu’s corruption trial: Is it really all over?",
+"url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+"at": "2026-11-26T17:38:02+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Makueni, Konza sign MoU to strengthen emergency response",
+"url": "https://www.kenyanews.go.ke/makueni-konza-sign-mou-to-strengthen-emergency-response/",
+"at": "2026-11-26T17:34:37+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Public Service Commission looks beyond Gov’t to expand Internship Programme",
+"url": "https://www.kbc.co.ke/public-service-commission-looks-beyond-govt-to-expand-internship-programme/",
+"at": "2026-11-26T17:33:49+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Syrian children continue learning amid the ruins of war in Idlib",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+"at": "2026-11-26T17:32:21+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Sifuna Mourns Longtime ODM Nyandarua Chairman",
+"url": "https://capitalfm.africa/sifuna-mourns-longtime-odm-nyandarua-chairman/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T17:30:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+"url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+"at": "2026-11-26T17:18:24+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Organisation calls for more action to fight gender-based violence",
+"url": "https://www.kenyanews.go.ke/organisation-calls-for-more-action-to-fight-gender-based-violence/",
+"at": "2026-11-26T17:12:35+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Ruto Orders Research Into Gikomba Fires, Economic Sabotage",
+"url": "https://capitalfm.africa/ruto-orders-research-into-gikomba-fires-economic-sabotage/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T17:07:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "PSC alerts state institutions to embrace the 50,000 interns in January",
+"url": "https://www.kenyanews.go.ke/psc-alerts-state-institutions-to-embrace-the-50000-interns-in-january/",
+"at": "2026-11-26T17:01:52+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "How a teen’s death raises questions about Colombia’s security crackdown",
+"url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+"at": "2026-11-26T16:49:59+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Wamalwa ousts Natembeya, Savula as DAP-K deputy leaders",
+"url": "https://www.standardmedia.co.ke/article/2001563129/wamalwa-ousts-natembeya-savula-as-dap-k-deputy-leaders",
+"at": "2026-11-26T16:36:56+00:00",
+"source": "The Standard",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+"url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+"at": "2026-11-26T16:32:31+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Xi says joint space exploration by Chinese, Pakistani astronauts vivid embodiment of deep-rooted friendship",
+"url": "https://www.kbc.co.ke/xi-says-joint-space-exploration-by-chinese-pakistani-astronauts-vivid-embodiment-of-deep-rooted-friendship/",
+"at": "2026-11-26T16:26:24+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Spanish economist to become new European Central Bank chief",
+"url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+"at": "2026-11-26T16:20:54+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Lands PS Korir calls for stronger geospatial training as 180 graduate from KISM",
+"url": "https://capitalfm.africa/ps-korir-calls-for-stronger-geospatial-training-as-180-graduate-from-kism/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T16:02:21+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Two KWS Officers Convicted Over Disappearance of Brian Odhiambo in 2025",
+"url": "https://capitalfm.africa/two-kws-officers-convicted-over-disappearance-of-brian-odhiambo-in-2025/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T16:01:07+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Why is France roiling?",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+"at": "2026-11-26T15:57:49+00:00",
+"source": "Al Jazeera",
+"tier": 2,
+"geo": "world",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Mackenzie, spouse, second-in-command convicted on all five counts in Shakahola Terrorism Case",
+"url": "https://capitalfm.africa/mackenzie-spouse-second-in-command-convicted-on-all-five-counts-in-shakahola-terrorism-case/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T15:56:30+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Waiguru launches three health projects set to benefit 23,000 Kirinyaga residents",
+"url": "https://www.kbc.co.ke/waiguru-launches-three-health-projects-set-to-benefit-23000-kirinyaga-residents/",
+"at": "2026-11-26T15:45:11+00:00",
+"source": "KBC",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Acting Kisumu Assembly Speaker pledges to unite members",
+"url": "https://capitalfm.africa/acting-kisumu-assembly-speaker-pledges-to-unite-members/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T15:40:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Four in five Kenyan organisations surveyed have no one formally responsible for AI risks, KNCCI and Akili AI report finds.",
+"url": "https://capitalfm.africa/four-in-five-kenyan-organisations-surveyed-have-no-one-formally-responsible-for-ai-risks-kncci-and-akili-ai-report-finds/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T15:25:05+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Governors Demand Sh557 Billion Allocation to Counties in 2027/28",
+"url": "https://capitalfm.africa/governors-demand-sh557-billion-allocation-to-counties-in-2027-28/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T15:24:07+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Ruto Orders Study Into Link Between Drug Economy and National Security",
+"url": "https://capitalfm.africa/ruto-orders-study-into-link-between-drug-economy-and-national-security/?utm_source=rss&utm_medium=feed&utm_campaign=feed-news",
+"at": "2026-11-26T15:15:00+00:00",
+"source": "Capital FM",
+"tier": 2,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
+"title": "Govt Keen to improve public information management- PS Isaboke",
+"url": "https://www.kenyanews.go.ke/govt-keen-to-improve-public-information-management-ps-isaboke/",
+"at": "2026-11-26T15:04:29+00:00",
+"source": "Kenya News Agency",
+"tier": 1,
+"geo": "kenya",
+"seen": "2026-11-26T23:29:40+00:00"
+},
+{
 "title": "DIG launches Quick Response Unit, installs first commandant in Garissa",
 "url": "https://www.kbc.co.ke/dig-launches-quick-response-unit-installs-first-commandant-in-garissa/",
 "at": "2026-11-26T14:53:16+00:00",
